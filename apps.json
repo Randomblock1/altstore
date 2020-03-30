@@ -79,7 +79,7 @@
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodiv18.6.ipa",
-      "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/Thumbnail-symbol-whitebg.webp",
+      "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/kodi.jpg",
       "localizedDescription": "Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
       "name": "Kodi",
       "screenshotURLs": [
