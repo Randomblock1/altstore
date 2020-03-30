@@ -1,0 +1,164 @@
+{
+  "apps": [
+    {
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Pwn20wnd",
+      "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
+      "iconURL": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+      "localizedDescription": "unc0ver jailbreak for iOS 11.0 - 12.2\n\nOne app to jailbreak all firmwares\nFull-fledged Cydia and Substrate support for ARM64 devices\nFull-fledged Telesphoreo port for ARM64 (Elucubratus)\nNo private data shared for diagnostics purposes\nSSH-Only (Dropbear) support\nOptions for the user\nUtilities for the user\nNo inefficient local jailbreak server (jailbreakd daemon)\nNative Cydia support with support for the iPhone X screen size\nAbility to rejailbreak from the jailbroken state\nStable kernelspace patches to avoid random crashes caused by kernel data aborts\nStable userspace patches to avoid random freezes and crashes caused by watchdog timer timeouts\nLocal APT repo system integrated in the jailbreak to verify the integrity of the core packages and repair them if they are corrupted\nExtended and improved assertion to prevent unexpected results such as bootloops caused by filesystem corruption\nBetter system security, battery life and performance\nSignificantly faster Cydia\nModifications to Cydia were approved by the creator of Cydia (Saurik)\nFully working debugserver\nNo DRM\nNo installation restrictions",
+      "name": "Unc0ver",
+      "screenshotURLs": [
+        "https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Screenshot-1.PNG",
+        "https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Screenshot-2.PNG",
+        "https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Screenshot-3.PNG"
+      ],
+      "size": 35476561,
+      "subtitle": "The most advanced jailbreak tool",
+      "tintColor": "000000",
+      "version": "4.3.1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Bumped version to 4.3.1 due to a github bug causing an older file to be temporarily available\nAdd support for rebooting the userspace for the first time in a jailbreak\nAdd support for injecting to the entire userspace\nAdd support for looking up or registering services from the sandbox with the cy: prefix for developers\nReboot the userspace after jailbreaking\nMake major design changes to preserve stock system performance\nFix random reboots, freezes, memory issues and any known problem that affected system services or apps\nFix persistent software update blocker on iOS 13 (Works in the jailed state too)\nFix a design problem that affected the Succession restore tool\nAutomatically re-enable software updates when restoring RootFS"
+    },
+    {
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "Electra Team",
+      "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
+      "iconURL": "https://chimera.sh/img/icon.png",
+      "localizedDescription": "Jailbreak for all devices, iOS 12 — 12.2 and 12.4\n\nNote: Only Nonce setter available on 12.1.2 - 12.3 and 12.4 on A12\nNote: 12.1.3 - 12.3 and 12.4 only supported on A7 - A11 devices. All devices supported on 12.0 - 12.1.2\nNote: Some 12.3 betas are compatible with Chimera. (Beta 6 is not compatible)",
+      "name": "Chimera",
+      "screenshotURLs": [
+        "https://chimera.sh/img/jumbotron.png"
+      ],
+      "size": 91350280,
+      "subtitle": "Your device, your way.",
+      "tintColor": "36AEB9",
+      "version": "1.4.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "This uses libhooker internally instead of substitute to apply some patches. (Your tweaks will still run on substitute, but the jailbreak itself now runs on libhooker and should be a lot more stable)"
+    },
+    {
+      "bundleIdentifier": "com.louisanslow.record",
+      "developerName": "Louis Anslow",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Rewound.ipa",
+      "iconURL": "https://pbs.twimg.com/profile_images/1185480705205325825/2pSbjkEz_400x400.jpg",
+      "localizedDescription": "Rewound turns your smartphone into your favourite MP3 player from the early 2000s. Access your whole Apple Music library with the swipe of a clickywheel.",
+      "name": "Rewound",
+      "screenshotURLs": [
+        "https://pbs.twimg.com/media/ETGEkV7WkAItpOf?format=jpg&name=large"
+      ],
+      "size": 5628716,
+      "subtitle": "iPod Classic for iPhone",
+      "tintColor": "000000",
+      "version": "2019.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Rewound has been pulled from AppStore. Further updates are unlikely."
+    },
+    {
+      "bundleIdentifier": "com.osy86.UTM",
+      "developerName": "UTMApp",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.6/UTM.ipa",
+      "iconURL": "https://getutm.app/assets/appicon.png",
+      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nEmulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n\nRun any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n\nFast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n\nHigh Compatibility\niOS 11+ supported. Works on iPhone and iPad. No jailbreak needed\n\nFree and Open Source\nUTM and its dependencies are all free and open source\n\nEasy to Use\nConfigure and customize your VM in a native UI",
+      "name": "UTM",
+      "screenshotURLs": [
+        "https://alt.getutm.app/screen0.png",
+        "https://alt.getutm.app/screen1.png",
+        "https://alt.getutm.app/screen2.png",
+        "https://alt.getutm.app/screen3.png",
+        "https://alt.getutm.app/screen4.png",
+        "https://alt.getutm.app/screen5.png"
+      ],
+      "size": 127012571,
+      "subtitle": "Virtual Machines for iOS",
+      "tintColor": "1F47D0",
+      "version": "0.6",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "[NEW]\nPause/resume VM\nRestart VM\nAuto-save state on background and/or low memory warning\nPreferences page for controlling auto-save and gestures\nConfigure gestures (change two finger tap, long press, etc)\nSave display position/zoom automatically\n\n[FIXES]\nAdd delay in mouse up and key up events fixing broken cursor/keyboard in PPC/aarch64/others (#145)\nFix pasting long text (#151)\nRare crash due to texture buffer not being locked correctly (#23)\nFix issue of PPC QEMU trying not supporting QXL\n\n[OTHER]\niOS 13.4 fixes the signing bug that prevents free accounts from signing UTM. You can now sign UTM every 7 days with a free developer account again."
+    },
+    {
+      "bundleIdentifier": "org.xbmc.kodi-ios",
+      "developerName": "Kodi Team",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodiv18.6.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/Thumbnail-symbol-whitebg.webp",
+      "localizedDescription": "Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
+      "name": "Kodi",
+      "screenshotURLs": [
+        "undefined"
+      ],
+      "size": 2184796,
+      "subtitle": "The ultimate entertainment center",
+      "tintColor": "12B2E7",
+      "version": "18.6",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Audio:\nFixes around visualisations\nFixes around pause/resume\nFixes around TrueHD crashes\nWorkaround firmware bug (AMLogic v23) (sidenote: there are many more Android audio fixes that can't be merged into 18.x Leia because of old AMLogic workarounds)\nFix to correctly resume audio-only MPEG-TS streams\nCorrect headphone enumeration (Android)\n\nBuild System:\nUpdates for missing includes\nUpdates for Cmake (Windows)\nUpdates for device handling and packaging (macOS)\n\nGames:\nFixes for launching disc images and .zip files\nFixes for black screen for RGB emulators (Rpi)\n\nInterface/Look-and-feel:\nFixes around TextureCache\nFixes for windowing, refresh rate, mode change and others (Android)\nFixes for floating/split keyboard (iOS)\nFix for artist slideshow (Estuary)\nFix media view from addon given content\n\nPlayback/Display:\nFixed race condition for OnPlaybackStarted\nFixes for MIME type (Android)\nSupport for DolbyVision streams via addons\nFixes for maximum width and height/vertical-shift (Android)\nFix for scanning in sub-directories\nFix size of EAGL layer on external screen (iOS)\nFix for glTexImage3D (Linux)\nFix for seeking issues\nReset playlist on new file playback\n\nPVR:\nFix for multiline episode names\n\nOther/General:\nFixed incorrectly formatted region time\nPass JSON serialised path settings to python scrapers\nFix file access on auto-mounted sources\nFix seeking with FileCache lockup\nFix passthrough on USB devices (Android)\nFix crash if profile.xml gets broken\nFix cache forward size on EOF"
+    },
+    {
+      "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
+      "developerName": "libRetro",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/RetroArch1.8.5.ipa",
+      "iconURL": "https://www.libretro.com/wp-content/uploads/2016/01/ic_launcher.png",
+      "localizedDescription": "RetroArch is a frontend for emulators, game engines and media players.\n\nIt enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!",
+      "name": "RetroArch",
+      "screenshotURLs": [
+        "undefined"
+      ],
+      "size": 252618524,
+      "subtitle": "All-in-One emulator for iOS.",
+      "tintColor": "000000",
+      "version": "1.8.5",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "3DS: Keep the bottom screen hidden on sleep/wakeup. When the 3DS wakes back up after being closed, the bottom screen needs to be reinitialized. Adding the condition here will cause the screen to be turned on or off based on the state of ctr_bottom_screen_enabled, as you’d expect\nANDROID/CHROMEBOOK/CRASH: Fix Chromebook crashes (on x86 x64) when touching the screen\nBUGFIX: Prevent double input when using ‘return’ key (hardware) to close on-screen keyboard\nBUGFIX: Fix mouse capture hotkey not working\nBUGFIX: Avoid overflow when calculating multiplying performance counter\nBUGFIX: Retroarch overlay displaying “Game remap file loaded.” on the overlay instead of “Core remap file loaded.” when only a core remap file is present\nCHEEVOS/BUGFIX: Achievement triggers could cause Retroarch to Crash\nCHEEVOS: Don’t block Sameboy core because it only exposes some memory\nCHEEVOS: Support for extended Sega CD memory\nCHEEVOS: Show RetroAchievements Hash in content information list\nCHEEVOS: If the core says it’s exposing SYSTEM_RAM, give it the benefit of the doubt\nCHEEVOS: RetroAchievements rich presence for RA.org website/Discord\nCHEEVOS: Reset token when username or password changes\nCHEEVOS: Display measured progress on locked achievements\nCHEEVOS: Queue multiple popups\nCHEEVOS: Add delay retries to leaderboard submits\nCHEEVOS: Prevent buffer overflow when encountering an unknown macro\nCORE UPDATER: Prevent hang when fetching core list if HTTP transfer fails\nDISK CONTROL: Add disk labels to ‘disk inserted’ notifications\nEMSCRIPTEN: Recreate input event listeners properly\nFFMPEG CORE: Fix crash on seeking when using HW decoding in some cases\nLIBRETRO: Add disk control interface API extension\nLINUX: Avoid possible crash when running retroarch at startup\nLINUX/GLX: Fix threaded video crashes/instability because of GLX OML sync callbacks\nLOCALIZATION: Update French translation\nLOCALIZATION: Update Korean translation\nLOCALIZATION: Update Polish translation\nLOCALIZATION: Update Spanish translation\nLOCALIZATION: Update Portuguese Brazilian translation\nMENU: Add Menu Scroll Acceleration option\nMENU: Automatically select currently checked item when opening drop-down lists\nMENU: Fix smooth (vertical) line ticker scroll speed\nMENU: Don’t flush on override/remap messages\nMENU/DATETIME: Adds some new timedate styles that follow the DD/MM/YYYY format, found in several European countries\nMENU/DATETIME: Modifies the existing translation files in order to accommodate the new options that are now available\nMENU/DATETIME: Reorders the timedate view options based on a decreasing order of the quantity of information displayed, so that they are more convenient to switch around and easily categorized\nMENU/BUGFIX: Fix bug – if you were in XMB and you would set menu driver to RGUI, you could no longer go to the left or right tab\nMENU/MATERIALUI: Add option to remove navigation bar\nMENU/OZONE: Add DPI-based scaling\nMENU/OZONE: Add rudimentary pointer support\nMENU/OZONE: Add ‘Nord’ and ‘Gruvbox Dark’ themes\nMENU/OZONE/POINTER: Pointer can be used to switch between sidebar and entries list\nMENU/OZONE/POINTER: Pointer can be used to select sidebar and entries list items\nMENU/OZONE/POINTER: Both sidebar and entries list can be scrolled by dragging\nMENU/OZONE/POINTER: Clicking/pressing the header or footer produces a ‘cancel’ action\nMENU/OZONE/POINTER: Cursor focus follows mouse pointer from sidebar to entries list (and vice versa)\nMENU/OZONE/POINTER: In entries list, item under cursor is automatically selected (with some fudging to ensure this doesn’t break mouse wheel scrolling)\nMENU/OZONE/POINTER: In sidebar, item under cursor is not automatically selected (this is too jarring)\nMENU/RGUI: Add ‘Flux’ theme\nMENU/XMB: New color themes ‘Cube Purple’, ‘Family Red’, etc\nNETPLAY/MENU/BUGFIX: Fix Netplay Stateless Mode doesn’t save. Affects other netplay settings which can be overridden by commandline option\nODROID GO ADVANCE: Rotation support\nNETPLAY/ROOMS/BUGFIX: Prevent out-of-bounds array indexing when displaying/selecting netplay rooms in menus\nSCANNER: Add ‘Arcade DAT Filter’ Option\nSCANNER: Add scanning Korea and Asia PS1 discs\nSCANNER: Add support for scanning PSP Korean\nVIDEO: Set hardware ‘Bilinear filtering’ off by default\nVIDEO/WIDGETS: Widgets are now menu-independent\nVIDEO/WIDGETS: Allow notifications to use full screen width when not displaying menu\nVIDEO/WIDGETS: DPI-based scaling\nVIDEO/WIDGETS: Fix volume widget scaling\nVIDEO/WIDGETS: Add independent widget scale override settings for fullscreen/windowed modes\nVIDEO/WIDGETS/BUGFIX: Prevent improper display of (old style) OSD text when widgets are enabled\nVIDEO/WIDGETS/THREADED/BUGFIX: Fix issue – corruption of menu widgets when running some cores (e.g. VICE) with threaded video enabled\nWIFI/CONNMANCTL: Display more characters from SSID"
+    },
+    {
+      "bundleIdentifier": "com.provenance-emu.provenance",
+      "developerName": "Provenance Emu",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Provenance-iOS-1.5b-2774.ipa",
+      "iconURL": "https://gblobscdn.gitbook.com/spaces%2F-LcssjTrcP7HWLfsYZCJ%2Favatar.png",
+      "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems\n\nSystems Supported:\nAtari\n2600\n5200\n7800\nLynx\nJaguar\nBandai\nWonderSwan / WonderSwan Color\nNEC\nPC Engine / TurboGrafx-16 (PCE/TG16)\nPC Engine Super CD-ROM² System / TurboGrafx-CD\nPC Engine SuperGrafx\nPC-FX\nNintendo\nNintendo Entertainment System / Famicom (NES/FC)\nFamicom Disk System\nSuper Nintendo Entertainment System / Super Famicom (SNES/SFC)\nGame Boy / Game Boy Color (GB/GBC)\nVirtual Boy\nNintendo 64 (N64)\nGame Boy Advance (GBA)\nPokémon mini\nSega\nSG-1000\nMaster System\nGenesis / Mega Drive\nGame Gear\nCD / MegaCD\n32X\nSNK\nNeo Geo Pocket / Neo Geo Pocket Color\nSony\nPlayStation (PSX/PS1)\nSystems in Development:\nNintendo\nDS\nSega\nDreamcast (reicast)\nSaturn (yabause)\nSony\nPSP (ppsspp)\nFeatures\nVery Accurate, Full Speed Emulation\nStereo Sound\nSave States (save anywhere/game freezing)\nBattery Saves (native game saves)\nAdjustable Controller Overlay Opacity\nController Support:\nMFi Game Controller Support\niCade Controller Support (8bitdo, etc…)\nLocal Multiplayer via External Controllers\nPortrait and Landscape Orientation\nAutomatic ROM Matching (Game Title, Cover Art, Description, Genre, etc…) via OpenVGDB\nROM Customizations (Cover Art, Game Titles) (Instructions)\nMultiple Options for Managing ROMs, Game Saves and Cover Art:\nImport / Export:\nUploading (via built-in web server)\nImport:\nDownloading (from mobile browsers)\nCopying (from other mobile apps and AirDrop)\nInjecting (with desktop apps)\nGame Library Searching\niOS 9+ (iPhone, iPad)\n3D Touch Shortcuts for Recent Games (iPhone 6s and later, except iPhone SE and iPhone Xʀ)\nTaptic Engine Button Feedback (iPhone 7 and later)\nSpotlight Searching (Setup)",
+      "name": "Provenance",
+      "screenshotURLs": [
+        "undefined"
+      ],
+      "size": 103608274,
+      "subtitle": "Emulator for iOS",
+      "tintColor": "3884FF",
+      "version": "1.5b-2774",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "beta version- no changelog included"
+    },
+    {
+      "bundleIdentifier": "org.ppsspp.ppsspp",
+      "developerName": "PPSSPP Team",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/PPSSPP_v1.9.3-586-g3f718eadf.ipa",
+      "iconURL": "https://www.ppsspp.org/img/ppsspp-icon.png",
+      "localizedDescription": "Play your PSP games in HD!\nPPSSPP can run your PSP games on your PC in full HD resolution, and play them on Android too. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.\n\nEven on modern Android phones and tablets, you can often run at double the original resolution.\n\nEnhance your experience!\nPlay in HD resolutions and more\nPlay on a tablet for big-screen mobile gaming\nCustomize on-screen touch controls or use an external controller or keyboard\nSave and restore game state anywhere, anytime\nCrank up the anisotropic filtering and texture scaling\nContinue where you left off by transferring saves from your real PSP\nFree & Open Source\nPPSSPP is an open source project, licensed under the GPL 2.0 (or later). Anyone is welcome to contribute improvements to the code. Partly thanks to such contributions, PPSSPP's compatibility is steadily increasing, letting us all play our PSP games on the devices of our choice.",
+      "name": "PPSSPP Stable",
+      "screenshotURLs": [
+        "undefined"
+      ],
+      "size": 18194333,
+      "subtitle": "PSP emulator for iOS",
+      "tintColor": "8BC3D3",
+      "version": "1.9.3",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "various bug fixes"
+    }
+  ],
+  "identifier": "com.randomblock1.randomsource",
+  "name": "RandomSource",
+  "news": [
+    {
+      "caption": "Great! Everything seems to be in working order, and you can now access RandomSource apps.",
+      "date": "2020-03-29",
+      "identifier": "randomsource-loaded",
+      "imageURL": "https://avatars0.githubusercontent.com/u/19873803?s=460&u=93e7dc8b5ffcf5592a8fbf35b01cc1ae6edd5d39&v=4",
+      "notify": false,
+      "tintColor": "3B878D",
+      "title": "RandomSource has Loaded"
+    }
+  ],
+  "sourceURL": "https://randomblock1.github.io/randomsource/apps.json",
+  "userInfo": {
+    "patreonAccessToken": "BSLUtJEvetvJNgOsqz0v98-FmBO5JYDfuO90o-reGB8"
+  }
+}
