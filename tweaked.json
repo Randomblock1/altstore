@@ -3,7 +3,7 @@
     {
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Majd Alfhaily",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/YouTube_v15.12.5_Cercube5_v5.1.10.ipa",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/YouTube_v15.13_Cercube5_v5.1.16.ipa",
       "iconURL": "https://apt.alfhaily.me/cdn/assets/cercube-icon.png",
       "localizedDescription": "Cercube 5 is the ultimate tweak for YouTube app adding tons of features including downloading videos, downloading as audio, disabling ads, background playback, change tab bar layout, and selecting default video quality.\n\nThe tweak works on YouTube and it offers all options available in the original app. Login to your account, view your playlists, subscriptions, trending videos, inbox, and more. \n\nCercube features:\n    - Save videos up to 4K resolution.\n- Save videos as audio only.\n- Set default download quality.\n- Manage and share downloads to any app.\n- Import downloads to Music or Videos.\n- Play YouTube videos using PiP.\n- Set default player quality on WiFi.\n- Set default player quality on 3G/4G.\n- Block all advertisements.\n- Enable background playback.\n- Play in high quality on Mobile Data.",
       "name": "Cercube for YouTube 5",
@@ -15,11 +15,11 @@
         "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
       ],
       "size": 95583027,
-      "subtitle": "The YouTube you've always wanted",
+      "subtitle": "The YouTube you've always wanted. Ad blocking, video downloading, and more!",
       "tintColor": "DB3020",
       "version": "15.12.5",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "initial upload"
+      "versionDescription": "Cercube updated 5.1.10 > 5.10.16 \nYouTube updated 15.12.5 > 15.13 \nCercube Changelog: \nAdded Explore tab compatability \nPiP on iOS 13 added \nLots of bug fixes"
     },
     {
       "bundleIdentifier": "net.whatsapp.WhatsApp",
@@ -102,9 +102,21 @@
   "name": "RandomSource Tweaked",
   "news": [
     {
+      "appID": "com.google.ios.youtube",
+      "caption": "Explore tab now works. Bug fixes. PiP support for iOS 13.",
+      "date": "2020-04-04",
+      "identifier": "cercube-15.1.16",
+      "imageURL": "",
+      "notify": false,
+      "tintColor": "C4302B",
+      "title": "Cercube for YouTube Updated"
+    },
+    {
+      "appID": "",
       "caption": "Success! Now you can install all your favorite tweaked apps.",
       "date": "2020-03-30",
       "identifier": "tweaked-loaded",
+      "imageURL": "",
       "notify": false,
       "tintColor": "3B878D",
       "title": "RandomSource Tweaked Apps Loaded"
