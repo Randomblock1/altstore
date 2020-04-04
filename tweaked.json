@@ -106,17 +106,14 @@
       "caption": "Explore tab now works. Bug fixes. PiP support for iOS 13.",
       "date": "2020-04-04",
       "identifier": "cercube-15.1.16",
-      "imageURL": "",
       "notify": true,
       "tintColor": "C4302B",
       "title": "Cercube for YouTube Updated"
     },
     {
-      "appID": "",
       "caption": "Success! Now you can install all your favorite tweaked apps.",
       "date": "2020-03-30",
       "identifier": "tweaked-loaded",
-      "imageURL": "",
       "notify": false,
       "tintColor": "3B878D",
       "title": "RandomSource Tweaked Apps Loaded"
