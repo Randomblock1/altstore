@@ -107,7 +107,7 @@
       "date": "2020-04-04",
       "identifier": "cercube-15.1.16",
       "imageURL": "",
-      "notify": false,
+      "notify": true,
       "tintColor": "C4302B",
       "title": "Cercube for YouTube Updated"
     },
