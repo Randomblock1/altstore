@@ -56,7 +56,7 @@
     {
       "bundleIdentifier": "com.osy86.UTM",
       "developerName": "UTMApp",
-      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.7/UTM.ipa",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.8/UTM.ipa",
       "iconURL": "https://getutm.app/assets/appicon.png",
       "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nEmulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n\nRun any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n\nFast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n\nHigh Compatibility\niOS 11+ supported. Works on iPhone and iPad. No jailbreak needed\n\nFree and Open Source\nUTM and its dependencies are all free and open source\n\nEasy to Use\nConfigure and customize your VM in a native UI",
       "name": "UTM",
@@ -71,9 +71,9 @@
       "size": 127012571,
       "subtitle": "Virtual Machines for iOS",
       "tintColor": "1F47D0",
-      "version": "0.7",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "[NEW]\nPause/resume VM\nRestart VM\nAuto-save state on background and/or low memory warning\nPreferences page for controlling auto-save and gestures\nConfigure gestures (change two finger tap, long press, etc)\nSave display position/zoom automatically\n\n[FIXES]\nAdd delay in mouse up and key up events fixing broken cursor/keyboard in PPC/aarch64/others (#145)\nFix pasting long text (#151)\nRare crash due to texture buffer not being locked correctly (#23)\nFix issue of PPC QEMU trying not supporting QXL\n\n[OTHER]\niOS 13.4 fixes the signing bug that prevents free accounts from signing UTM. You can now sign UTM every 7 days with a free developer account again."
+      "version": "0.8",
+      "versionDate": "2020-04-05T14:00:00-07:00",
+      "versionDescription": "Console mode: boot without GUI into a Terminal \niPadOS 13.4 touchpad support for VM \nAdded ko-KR translation \nImplemented advanced network settings including port forwarding \nShare clipboard between guest and iOS. Requires SPICE guest tools to be installed. Image support on Windows is limited to PNGs only. \nTweaked toolbar display on large screens (toolbar should be small)"
     },
     {
       "bundleIdentifier": "org.xbmc.kodi-ios",
