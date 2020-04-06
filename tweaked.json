@@ -24,19 +24,19 @@
     {
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Snapchat",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Snapchat-v10.78.5.65_SnapHide2-v1.1.0_Wraith-v0.0.6.ipa",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Snapchat_v10.79.0_SnapBreak_v1.7.1.ipa",
       "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/5c/ad/07/5cad0797-e192-6d6d-cf53-cbe4fc063201/source/100x100bb.jpg",
-      "localizedDescription": "Snapchat with Wraith and SnapHide 2 installed. \nThe best tweaked features, like: \nSaving snaps \nViewing snaps but not marking them as read \nUploading media from your photos without the Sent from Camera Roll tag \nJailbreak detection bypass",
+      "localizedDescription": "Snapchat with SnapBreak installed. \nThe best tweaked features, like: \nSaving snaps \nViewing snaps but not marking them as read \nUploading media from your photos without the Sent from Camera Roll tag \nJailbreak detection bypass \nDark mode \nAutomatic chat saving \n Multiple accounts + account manager \nAND SO MUCH MORE!",
       "name": "Snapchat++",
       "screenshotURLs": [
         "undefined"
       ],
       "size": 95583027,
       "subtitle": "Snapchat with extra features",
-      "tintColor": "DB3020",
-      "version": "10.78.5.65",
-      "versionDate": "2020-04-04T14:00:00-07:00",
-      "versionDescription": "Initial upload"
+      "tintColor": "fffc00",
+      "version": "10.79.0.70",
+      "versionDate": "2020-04-05T14:00:00-07:00",
+      "versionDescription": "SnapBreak Added!"
     },
     {
       "bundleIdentifier": "net.whatsapp.WhatsApp",
@@ -118,6 +118,14 @@
   "identifier": "com.randomblock1.tweaked",
   "name": "RandomSource Tweaked",
   "news": [
+    {
+      "caption": "Snapchat SnapBreak has literally all the features you could want in a tweak. Snap saving, anonymous viewing, uploading from camera roll, image editor, message saving, dark mode, and so much more.",
+      "date": "2020-04-05",
+      "identifier": "randomsource-update-4-5-20",
+      "notify": true,
+      "tintColor": "fffc00",
+      "title": "Snapchat SnapBreak has been added!"
+    },
     {
       "caption": "TONS of app updates! Snapchat++ has been added!",
       "date": "2020-04-04",
