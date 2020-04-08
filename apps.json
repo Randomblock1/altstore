@@ -54,28 +54,6 @@
       "versionDescription": "Rewound has been pulled from AppStore. Further updates are unlikely."
     },
     {
-      "bundleIdentifier": "com.osy86.UTM",
-      "developerName": "UTMApp",
-      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.8/UTM.ipa",
-      "iconURL": "https://getutm.app/assets/appicon.png",
-      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nEmulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n\nRun any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n\nFast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n\nHigh Compatibility\niOS 11+ supported. Works on iPhone and iPad. No jailbreak needed\n\nFree and Open Source\nUTM and its dependencies are all free and open source\n\nEasy to Use\nConfigure and customize your VM in a native UI",
-      "name": "UTM",
-      "screenshotURLs": [
-        "https://alt.getutm.app/screen0.png",
-        "https://alt.getutm.app/screen1.png",
-        "https://alt.getutm.app/screen2.png",
-        "https://alt.getutm.app/screen3.png",
-        "https://alt.getutm.app/screen4.png",
-        "https://alt.getutm.app/screen5.png"
-      ],
-      "size": 127012571,
-      "subtitle": "Virtual Machines for iOS",
-      "tintColor": "1F47D0",
-      "version": "0.8",
-      "versionDate": "2020-04-05T14:00:00-07:00",
-      "versionDescription": "Console mode: boot without GUI into a Terminal \niPadOS 13.4 touchpad support for VM \nAdded ko-KR translation \nImplemented advanced network settings including port forwarding \nShare clipboard between guest and iOS. Requires SPICE guest tools to be installed. Image support on Windows is limited to PNGs only. \nTweaked toolbar display on large screens (toolbar should be small)"
-    },
-    {
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Majd Alfhaily",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/YouTube_v15.13_Cercube5_v5.1.16.ipa",
@@ -268,6 +246,14 @@
       "notify": false,
       "tintColor": "3B878D",
       "title": "Sources Merged"
+    },
+    {
+      "caption": "UTM has been removed. Please add alt.getutm.app instead since that is the official source.,
+      "date": "2020-04-08",
+      "identifier": "utm-removed",
+      "notify": false,
+      "tintColor": "3B878D",
+      "title": "UTM Removed"
     },
     {
       "caption": "Snapchat SnapBreak has literally all the features you could want in a tweak. Snap saving, anonymous viewing, uploading from camera roll, image editor, message saving, dark mode, and so much more.",
