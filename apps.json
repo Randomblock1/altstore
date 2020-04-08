@@ -76,6 +76,120 @@
       "versionDescription": "Console mode: boot without GUI into a Terminal \niPadOS 13.4 touchpad support for VM \nAdded ko-KR translation \nImplemented advanced network settings including port forwarding \nShare clipboard between guest and iOS. Requires SPICE guest tools to be installed. Image support on Windows is limited to PNGs only. \nTweaked toolbar display on large screens (toolbar should be small)"
     },
     {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Majd Alfhaily",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/YouTube_v15.13_Cercube5_v5.1.16.ipa",
+      "iconURL": "https://apt.alfhaily.me/cdn/assets/cercube-icon.png",
+      "localizedDescription": "Cercube 5 is the ultimate tweak for YouTube app adding tons of features including downloading videos, downloading as audio, disabling ads, background playback, change tab bar layout, and selecting default video quality.\n\nThe tweak works on YouTube and it offers all options available in the original app. Login to your account, view your playlists, subscriptions, trending videos, inbox, and more. \n\nCercube features:\n    - Save videos up to 4K resolution.\n- Save videos as audio only.\n- Set default download quality.\n- Manage and share downloads to any app.\n- Import downloads to Music or Videos.\n- Play YouTube videos using PiP.\n- Set default player quality on WiFi.\n- Set default player quality on 3G/4G.\n- Block all advertisements.\n- Enable background playback.\n- Play in high quality on Mobile Data.",
+      "name": "Cercube for YouTube 5",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
+      ],
+      "size": 95583027,
+      "subtitle": "The YouTube you've always wanted. Ad blocking, video downloading, and more!",
+      "tintColor": "DB3020",
+      "version": "15.13",
+      "versionDate": "2020-04-04T14:00:00-07:00",
+      "versionDescription": "Cercube updated 5.1.10 > 5.10.16 \nYouTube updated 15.12.5 > 15.13 \nCercube Changelog: \nAdded Explore tab compatability \nPiP on iOS 13 added \nLots of bug fixes"
+    },
+    {
+      "bundleIdentifier": "com.toyopagroup.picaboo",
+      "developerName": "Snapchat",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Snapchat_v10.79.0_SnapBreak_v1.7.1.ipa",
+      "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/5c/ad/07/5cad0797-e192-6d6d-cf53-cbe4fc063201/source/100x100bb.jpg",
+      "localizedDescription": "Snapchat with SnapBreak installed. \nThe best tweaked features, like: \nSaving snaps \nViewing snaps but not marking them as read \nUploading media from your photos without the Sent from Camera Roll tag \nJailbreak detection bypass \nDark mode \nAutomatic chat saving \n Multiple accounts + account manager \nAND SO MUCH MORE!",
+      "name": "Snapchat++",
+      "screenshotURLs": [
+        "undefined"
+      ],
+      "size": 95583027,
+      "subtitle": "Snapchat with extra features",
+      "tintColor": "fffc00",
+      "version": "10.79.0.70",
+      "versionDate": "2020-04-05T14:00:00-07:00",
+      "versionDescription": "SnapBreak Added!"
+    },
+    {
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "WhatsApp Inc",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/WhatsApp_v2.20.31_Stalky_v4.1.3_Watusi2_v1.2.36.ipa",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/07/3f/a2073f3a-1231-5741-24d6-4b31e884dfe2/source/100x100bb.jpg",
+      "localizedDescription": "WhatsApp Tweaked includes Stalky and Watusi 2.",
+      "name": "WhatsApp Tweaked",
+      "screenshotURLs": [
+        "undefined"
+      ],
+      "size": 94702097,
+      "subtitle": "WhatsApp Tweaked",
+      "tintColor": "33DE54",
+      "version": "2.20.31",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "initial upload"
+    },
+    {
+      "bundleIdentifier": "com.plexapp.plex",
+      "developerName": "Plex Inc",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/PlexMobile_v6.9_Plex_Unlocker_v1.0.ipa",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3f/c0/a4/3fc0a435-5418-cf87-8b11-6d82976db2d4/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+      "localizedDescription": "Plex Unlocked allows you to play back videos on iOS without having to make an IAP.",
+      "name": "Plex Unlocked",
+      "screenshotURLs": [
+        "undefined"
+      ],
+      "size": 47667043,
+      "subtitle": "Plex Tweaked",
+      "tintColor": "EAB522",
+      "version": "6.9",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "initial upload"
+    },
+    {
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Spotify-v8.5.52_Spos-v8.5.49_Spotilife-v1.1a.ipa",
+      "iconURL": "https://repo-cdn.dynastic.co/282547841560215552.79b497042913ea40bdebaab2bf6d32e6-332",
+      "localizedDescription": "Spotilife + Sposify. \nSpotilife: free Spotify Premium. \nSposify: \nThis tweak which adds various enhancements to the Spotify application\nInstructions\n\n    Go into Spotify Settings then tap the Burger Menu Icon for the Sposify Menu\n\nHome Additions\n\n    Connect Access Button\n    Import Your Music\n    Voice Search\n    Verified Profile Badge\n    No Burger Menu Icon on Lockscreen\n\nYour Library Additions\n\n    Show Album & Artist Recommendations\n    Create Playlist New Interface\n    Open Canvas Playlist\n    True Shuffle\n    No Shuffle on Big Play Button\n    Hide Create Playlist\n    Old Artists & Playlists Interface\n    View Artists Offline\n\nNow Playing View Additions\n\n    Long-Press on any Canvas to Save them.\n    Align Text to Top\n    Auto Hide Duration Labels\n    Blackout Mode\n    Canvas Choice Button\n    Canvas Tap\n    Car View\n    Show Statusbar\n    Realtime Lyrics Button\n    Realtime Lyrics Popup\n\nNow Playing View Annoyances\n\n    Disable Genius Lyrics\n    Disable Storylines\n    Disable Canvas\n    Disable Queue Screen Controls\n    Disable Social Listening Section\n\nCanvas Instructions\n\n    Any Canvas you Save will be Saved to an Album called Canvas in Your Photos.",
+      "name": "Spotify++",
+      "screenshotURLs": [
+        "https://repo-cdn.dynastic.co/290772106256318465.d92d68496f31b2913e50b96274549ead-750",
+        "https://repo-cdn.dynastic.co/290772143233302529.70634fc05ca98274d0ae747f3ed7f35d-750",
+        "https://repo-cdn.dynastic.co/290772183435706369.33de8bb981f38ac620bf6524803c4778-750",
+        "https://repo-cdn.dynastic.co/290772213160738817.f2390ff8bd8ef1edad7977d02c2d1ac7-750",
+        "https://repo-cdn.dynastic.co/290772240776036353.7722e87a51971d19096d8a64e50a4a32-750",
+        "https://repo-cdn.dynastic.co/290772280923914241.d713b829111a27e501f895dd62f6d9ef-750"
+      ],
+      "size": 51338943,
+      "subtitle": "Spotify with More Features",
+      "tintColor": "00DA5A",
+      "version": "8.5.52",
+      "versionDate": "2020-04-04T14:00:00-07:00",
+      "versionDescription": "Added Spotilife\n    Added Connect Access Button\n    Added View Artists Offline\n    Added Hide Create Playlist\n    Added Show Album & Artist Recommendations\n    Added Realtime Lyrics Button\n    Fixed some non working features as the class names changed.\n    Removed no longer working features due to Spotify removing the code."
+    },
+    {
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Majd Alfhaily",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Instagram-v135.1_Rocket-v3.6.14_IGShowLike-v1.0.3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/rocket.jpg",
+      "localizedDescription": "Rocket for Instagram is the one and only tweak that you'll need for Instagram. Made by Instagram users for Instagram users.\nAnonymous Viewer\n\nView other users' stories and messages without notifying them that you've seen their media.\nGrid Feed Layout\n\nRocket for Instagram brings the much-beloved grid layout for the home feed.\nSave Posts to Gallery\n\nWith Rocket for Instagram, you can save any photo or video posted on Instagram to your device.\nFriendship Status\n\nCheck whether other users follow you or not by simply visiting their own profile.",
+      "name": "Instagram Rocket",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 66942164,
+      "subtitle": "Instagram Rocket + IGShowLikes",
+      "tintColor": "EF9141",
+      "version": "135.1",
+      "versionDate": "2020-04-04T14:00:00-07:00",
+      "versionDescription": "Updated Instagram and tweaks"
+    },
+    {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodiv18.6.ipa",
@@ -147,6 +261,30 @@
   "identifier": "com.randomblock1.randomsource",
   "name": "RandomSource",
   "news": [
+     {
+      "caption": "RandomSource's utility source and tweaked source have merged.",
+      "date": "2020-04-08",
+      "identifier": "randomsource-merge",
+      "notify": false,
+      "tintColor": "3B878D",
+      "title": "Sources Merged"
+    },
+    {
+      "caption": "Snapchat SnapBreak has literally all the features you could want in a tweak. Snap saving, anonymous viewing, uploading from camera roll, image editor, message saving, dark mode, and so much more.",
+      "date": "2020-04-05",
+      "identifier": "randomsource-update-4-5-20",
+      "notify": false,
+      "tintColor": "fffc00",
+      "title": "Snapchat SnapBreak has been added!"
+    },
+    {
+      "caption": "TONS of app updates! Snapchat++ has been added!",
+      "date": "2020-04-04",
+      "identifier": "randomsource-update-4-4-20",
+      "notify": false,
+      "tintColor": "3B878D",
+      "title": "Lots of Apps Updated, Snapchat++ Added"
+    },
     {
       "caption": "Great! Everything seems to be in working order, and you can now access RandomSource apps.",
       "date": "2020-03-29",
