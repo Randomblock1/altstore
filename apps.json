@@ -248,7 +248,7 @@
       "title": "Sources Merged"
     },
     {
-      "caption": "UTM has been removed. Please add alt.getutm.app instead since that is the official source.,
+      "caption": "UTM has been removed. Please add alt.getutm.app instead since that is the official source.",
       "date": "2020-04-08",
       "identifier": "utm-removed",
       "notify": false,
