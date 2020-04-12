@@ -1,6 +1,9 @@
 # randomsource
 AltStore source with updated emulators, jailbreak apps, and tweaked apps ready to go.
 
+# website: https://randomblock1.rocks
+## (contains video instructions + more)
+
 Includes:
 - apps.json: jailbreak apps, emulators, tweaked apps (cercube, snapchat++, IG rocket, watusi, etc.) and more! https://bit.ly/2UtmfSn
 - beta-apps.json: modified AltStore source so you can download beta apps for free (if you can't use patreon like me) https://bit.ly/2xwEqOf
