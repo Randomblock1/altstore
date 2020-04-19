@@ -37,6 +37,23 @@
       "versionDescription": "This uses libhooker internally instead of substitute to apply some patches. (Your tweaks will still run on substitute, but the jailbreak itself now runs on libhooker and should be a lot more stable)"
     },
     {
+      "bundleIdentifier": "com.luma-touch.LumaFusion",
+      "developerName": "LumaTouch LLC",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/LumaFusion_2.2.1.ipa",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/28/50/94/285094f5-7480-2625-d266-25affe327f29/source/512x512bb.jpg",
+      "localizedDescription": "The best professional-grade, ad-free, fully-featured video editor for iOS. Includes setting resolution, bitrate, audio rate, chroma key, and much more!",
+      "name": "LumaFusion",
+      "screenshotURLs": [
+        "undefined"
+      ],
+      "size": 152000000,
+      "subtitle": "Best Video Editor for iOS",
+      "tintColor": "030080",
+      "version": "2.2.3",
+      "versionDate": "2020-04-19T14:00:00-07:00",
+      "versionDescription": "Initial upload"
+    },
+    {
       "bundleIdentifier": "com.louisanslow.record",
       "developerName": "Louis Anslow",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Rewound.ipa",
