@@ -1,5 +1,6 @@
 # randomsource
 AltStore source with updated emulators, jailbreak apps, and tweaked apps ready to go.
+WARNING: this repo will not be updated until AltStore gets some fixes, I can't install it on my device so I can't really work on this.
 
 # website: https://randomblock1.rocks
 ## (contains video instructions + more)
@@ -19,12 +20,3 @@ Includes:
 3. in the top right, click 'sources'
 4. add whatever links above you want
 5. to make sure everything works, close and reopen altstore
-
-## if you can't use patreon
-if you cannot use patreon (like me) for a variety of reasons, you can still use this! here's how:
-
-1. download altpatcher (google it)
-2. find the latest altstore beta ipa from https://cdn.altstore.io/file/altstore/apps.json
-3. patch altserver with that ipa (shorten the link with bitly), altserver should close
-4. reopen altserver and click 'install' to your device
-5. altstore beta should now be installed to your device
