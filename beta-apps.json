@@ -187,7 +187,7 @@
     }
   ],
   "news": [
-      {
+     {
       "caption": "The current domain name for RandomSource will expire in a week, and I don't plan to renew it. Please add https://randomsource.imfast.io instead if you want to keep using it. Additionally, RandomSource will not be updated until AltStore sources are availible to the public. The developer seems to just be holding it back only for Patreon users, even though it is ready for everyone to use. It seems EXTREMELY greedy at this point; sources have been complete for a few months now, and it seems even more greedy since the pandemic has affected many people and their jobs. I encourage you to voice your concerns about it to the developer.",
       "date": "2020-09-12",
       "identifier": "randomsource-expiry-beta",
