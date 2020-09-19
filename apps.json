@@ -245,10 +245,18 @@
   "name": "RandomSource",
   "news": [
      {
+      "caption": "Randomblock1.com has been acquired. Please update your sources to https://randomblock1.com/altstore. Randomblock1.rocks no longer works, and if you continue using randomsource.imfast.io it may stop working.",
+      "date": "2020-09-19",
+      "identifier": "randomsource-randomblock1com",
+      "notify": true,
+      "tintColor": "3B878D",
+      "title": "IMPORTANT MESSAGE"
+     },
+     {
       "caption": "The current domain name for RandomSource will expire in a week, and I don't plan to renew it. Please add https://randomsource.imfast.io instead if you want to keep using it. Additionally, RandomSource will not be updated until AltStore sources are availible to the public. The developer seems to just be holding it back only for Patreon users, even though it is ready for everyone to use. It seems EXTREMELY greedy at this point; sources have been complete for a few months now, and it seems even more greedy since the pandemic has affected many people and their jobs. I encourage you to voice your concerns about it to the developer.",
       "date": "2020-09-12",
       "identifier": "randomsource-expiry",
-      "notify": true,
+      "notify": false,
       "tintColor": "3B878D",
       "title": "READ ME, IMPORTANT!"
      },
@@ -259,30 +267,6 @@
       "notify": false,
       "tintColor": "3B878D",
       "title": "Sources Merged"
-    },
-    {
-      "caption": "UTM has been removed. Please add alt.getutm.app instead since that is the official source.",
-      "date": "2020-04-08",
-      "identifier": "utm-removed",
-      "notify": false,
-      "tintColor": "3B878D",
-      "title": "UTM Removed"
-    },
-    {
-      "caption": "Snapchat SnapBreak has literally all the features you could want in a tweak. Snap saving, anonymous viewing, uploading from camera roll, image editor, message saving, dark mode, and so much more.",
-      "date": "2020-04-05",
-      "identifier": "randomsource-update-4-5-20",
-      "notify": false,
-      "tintColor": "c2c902",
-      "title": "Snapchat SnapBreak has been added!"
-    },
-    {
-      "caption": "TONS of app updates! Snapchat++ has been added!",
-      "date": "2020-04-04",
-      "identifier": "randomsource-update-4-4-20",
-      "notify": false,
-      "tintColor": "3B878D",
-      "title": "Lots of Apps Updated, Snapchat++ Added"
     },
     {
       "caption": "Great! Everything seems to be in working order, and you can now access RandomSource apps.",
