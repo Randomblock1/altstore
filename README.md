@@ -6,8 +6,8 @@ WARNING: this repo won't be updated regularly until the developer stops being gr
 ## (contains video instructions + more)
 
 Includes:
-- apps.json: jailbreak apps, emulators, tweaked apps (cercube, snapchat++, IG rocket, watusi, etc.) and more! https://bit.ly/2UtmfSn
-- beta-apps.json: modified AltStore source so you can download beta apps for free (if you can't use patreon like me) https://bit.ly/2xwEqOf
+- apps.json: jailbreak apps, emulators, tweaked apps (cercube, snapchat++, IG rocket, watusi, etc.) and more! https://bit.ly/2HmAVOZ
+- beta-apps.json: modified AltStore source so you can download beta apps for free (if you can't use patreon like me) https://bit.ly/2IN9sHd
 
 ## how to use (no beta)
 1. visit this site: https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Frandomblock1.com%2Faltstore%2Fapps.json
