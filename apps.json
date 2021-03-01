@@ -22,11 +22,11 @@
       "bundleIdentifier": "com.electrateam.chimera",
       "developerName": "Electra Team",
       "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.2-12.2-12.5.ipa",
-      "iconURL": "https://chimera.sh/img/icon.png",
+      "iconURL": "https://chimera.coolstar.org/img/icon.png",
       "localizedDescription": "Jailbreak for all devices, from iOS 12.2 to 12.5.1\n\nNote: Only Nonce setter available on 12.1.2 - 12.3 and 12.4 on A12\nNote: 12.1.3 - 12.5.1 only supported on A7 - A11 devices. All devices supported on 12.0 - 12.1.2\nOn iOS 12 to 12.1.2? Download the IPA from https://chimera.sh instead! (why are you on such an old ios tho)",
       "name": "Chimera",
       "screenshotURLs": [
-        "https://chimera.sh/img/jumbotron.png",
+        "https://chimera.coolstar.org/img/jumbotron.png",
         "https://i.imgur.com/dpeAFtg.jpg"
       ],
       "size": 31098621,
@@ -76,90 +76,24 @@
       "versionDescription": "Updated YouTube base to v16.8.2 and Cercube to v5.2.12"
     },
     {
-      "bundleIdentifier": "com.toyopagroup.picaboo",
-      "developerName": "Snapchat",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Snapchat_v10.79.0_SnapBreak_v1.7.1.ipa",
-      "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/5c/ad/07/5cad0797-e192-6d6d-cf53-cbe4fc063201/source/100x100bb.jpg",
-      "localizedDescription": "DOES NOT WORK RIGHT NOW, DO NOT USE. Snapchat with SnapBreak installed. \nThe best tweaked features, like: \nSaving snaps \nViewing snaps but not marking them as read \nUploading media from your photos without the Sent from Camera Roll tag \nJailbreak detection bypass \nDark mode \nAutomatic chat saving \n Multiple accounts + account manager \nAND SO MUCH MORE!",
-      "name": "Snapchat++",
-      "screenshotURLs": [
-        "https://snapbreak.app/img/iphone-presentation-1.png",
-        "https://snapbreak.app/img/iphone-presentation-2.png",
-        "https://snapbreak.app/img/iphone-presentation-3.png",
-        "https://snapbreak.app/img/iphone-presentation-4.png",
-        "https://snapbreak.app/img/iphone-presentation-5.png",
-        "https://snapbreak.app/img/iphone-presentation-6.png",
-        "https://snapbreak.app/img/iphone-presentation-7.png",
-        "https://snapbreak.app/img/iphone-presentation-8.png"
-      ],
-      "size": 95583027,
-      "subtitle": "Snapchat with extra features",
-      "tintColor": "fffc00",
-      "version": "10.79.0.70",
-      "versionDate": "2020-04-05T14:00:00-07:00",
-      "versionDescription": "SnapBreak Added!"
-    },
-    {
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "WhatsApp Inc",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/WhatsApp_v2.20.31_Stalky_v4.1.3_Watusi2_v1.2.36.ipa",
-      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/07/3f/a2073f3a-1231-5741-24d6-4b31e884dfe2/source/100x100bb.jpg",
-      "localizedDescription": "DO NOT USE, DOES NOT WORK (for now). WhatsApp Tweaked includes Stalky and Watusi 2.",
-      "name": "WhatsApp Tweaked",
-      "screenshotURLs": [
-        "http://moreinfo.thebigboss.org/moreinfo/watusi2-1.jpg",
-        "http://moreinfo.thebigboss.org/moreinfo/watusi2-2.jpg",
-        "http://moreinfo.thebigboss.org/moreinfo/watusi2-3.jpg",
-        "http://moreinfo.thebigboss.org/moreinfo/watusi2-4.jpg"
-      ],
-      "size": 94702097,
-      "subtitle": "WhatsApp Tweaked",
-      "tintColor": "33DE54",
-      "version": "2.20.31",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "initial upload"
-    },
-    {
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "Spotify",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Spotify_v8.5.53_Spos_v8.5.52_Spotilife.ipa",
-      "iconURL": "https://repo-cdn.dynastic.co/282547841560215552.79b497042913ea40bdebaab2bf6d32e6-332",
-      "localizedDescription": "PROBABLY DOESNT WORK, WAIT FOR UPDATE! Spotilife + Sposify. \nSpotilife: free Spotify Premium. \nSposify: \nThis tweak which adds various enhancements to the Spotify application\nInstructions\n\n    Go into Spotify Settings then tap the Burger Menu Icon for the Sposify Menu\n\nHome Additions\n\n    Connect Access Button\n    Import Your Music\n    Voice Search\n    Verified Profile Badge\n    No Burger Menu Icon on Lockscreen\n\nYour Library Additions\n\n    Show Album & Artist Recommendations\n    Create Playlist New Interface\n    Open Canvas Playlist\n    True Shuffle\n    No Shuffle on Big Play Button\n    Hide Create Playlist\n    Old Artists & Playlists Interface\n    View Artists Offline\n\nNow Playing View Additions\n\n    Long-Press on any Canvas to Save them.\n    Align Text to Top\n    Auto Hide Duration Labels\n    Blackout Mode\n    Canvas Choice Button\n    Canvas Tap\n    Car View\n    Show Statusbar\n    Realtime Lyrics Button\n    Realtime Lyrics Popup\n\nNow Playing View Annoyances\n\n    Disable Genius Lyrics\n    Disable Storylines\n    Disable Canvas\n    Disable Queue Screen Controls\n    Disable Social Listening Section\n\nCanvas Instructions\n\n    Any Canvas you Save will be Saved to an Album called Canvas in Your Photos.",
-      "name": "Spotify++",
-      "screenshotURLs": [
-        "https://repo-cdn.dynastic.co/290772106256318465.d92d68496f31b2913e50b96274549ead-750",
-        "https://repo-cdn.dynastic.co/290772143233302529.70634fc05ca98274d0ae747f3ed7f35d-750",
-        "https://repo-cdn.dynastic.co/290772183435706369.33de8bb981f38ac620bf6524803c4778-750",
-        "https://repo-cdn.dynastic.co/290772213160738817.f2390ff8bd8ef1edad7977d02c2d1ac7-750",
-        "https://repo-cdn.dynastic.co/290772240776036353.7722e87a51971d19096d8a64e50a4a32-750",
-        "https://repo-cdn.dynastic.co/290772280923914241.d713b829111a27e501f895dd62f6d9ef-750"
-      ],
-      "size": 51338943,
-      "subtitle": "Spotify with More Features",
-      "tintColor": "00DA5A",
-      "version": "8.5.53",
-      "versionDate": "2020-04-19T14:00:00-07:00",
-      "versionDescription": "Added Spotilife\n    Added Connect Access Button\n    Added View Artists Offline\n    Added Hide Create Playlist\n    Added Show Album & Artist Recommendations\n    Added Realtime Lyrics Button\n    Fixed some non working features as the class names changed.\n    Removed no longer working features due to Spotify removing the code."
-    },
-    {
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Majd Alfhaily",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Instagram-v135.1_Rocket-v3.6.14_IGShowLike-v1.0.3.ipa",
+      "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/Instagram_v177.0_Rocket_v3.7.18.ipa",
       "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/rocket.jpg",
-      "localizedDescription": "PROBABLY DOESNT WORK, WAIT FOR UPDATE! Rocket for Instagram is the one and only tweak that you'll need for Instagram. Made by Instagram users for Instagram users.\nAnonymous Viewer\n\nView other users' stories and messages without notifying them that you've seen their media.\nGrid Feed Layout\n\nRocket for Instagram brings the much-beloved grid layout for the home feed.\nSave Posts to Gallery\n\nWith Rocket for Instagram, you can save any photo or video posted on Instagram to your device.\nFriendship Status\n\nCheck whether other users follow you or not by simply visiting their own profile.",
-      "name": "Instagram Rocket",
+      "localizedDescription": "Rocket for Instagram is the one and only tweak that you'll need for Instagram. Made by Instagram users for Instagram users.\nAnonymous Viewer\n\nView other users' stories and messages without notifying them that you've seen their media.\nGrid Feed Layout\n\nRocket for Instagram brings the much-beloved grid layout for the home feed.\nSave Posts to Gallery\n\nWith Rocket for Instagram, you can save any photo or video posted on Instagram to your device.\nFriendship Status\n\nCheck whether other users follow you or not by simply visiting their own profile.",
+      "name": "Instagram++",
       "screenshotURLs": [
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
       ],
-      "size": 66942164,
-      "subtitle": "Instagram Rocket + IGShowLikes",
+      "size": 71036797,
+      "subtitle": "Instagram Rocket",
       "tintColor": "EF9141",
-      "version": "135.1",
-      "versionDate": "2020-04-04T14:00:00-07:00",
-      "versionDescription": "Updated Instagram and tweaks"
+      "version": "177.0",
+      "versionDate": "2021-03-01T16:00:00-07:00",
+      "versionDescription": "Updated Instagram and Rocket"
     },
     {
       "bundleIdentifier": "org.xbmc.kodi-ios",
@@ -237,12 +171,12 @@
   "name": "RandomSource",
   "news": [
     {
-      "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 3/1/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube++\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP",
+      "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 3/1/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube++\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP\n* Instagram++",
       "date": "2021-03-01",
       "identifier": "randomsource-status",
-      "notify": false,
+      "notify": true,
       "tintColor": "3B878D",
-      "title": "IMPORTANT MESSAGE"
+      "title": "RandomSource Status"
     },
     {
       "caption": "Randomblock1.com has been acquired. Please update your sources to https://randomblock1.com/altstore. Randomblock1.rocks no longer works, and if you continue using randomsource.imfast.io it may stop working.",
