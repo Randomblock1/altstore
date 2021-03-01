@@ -3,38 +3,38 @@
     {
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Pwn20wnd",
-      "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
+      "downloadURL": "https://unc0ver.dev/downloads/6.0.0/dcf988f66cca8c732decf4d4e4b44eb4fc52582a/unc0ver_6.0.0.ipa",
       "iconURL": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
-      "localizedDescription": "unc0ver jailbreak for iOS 11.0 - 12.2\n\nOne app to jailbreak all firmwares\nFull-fledged Cydia and Substrate support for ARM64 devices\nFull-fledged Telesphoreo port for ARM64 (Elucubratus)\nNo private data shared for diagnostics purposes\nSSH-Only (Dropbear) support\nOptions for the user\nUtilities for the user\nNo inefficient local jailbreak server (jailbreakd daemon)\nNative Cydia support with support for the iPhone X screen size\nAbility to rejailbreak from the jailbroken state\nStable kernelspace patches to avoid random crashes caused by kernel data aborts\nStable userspace patches to avoid random freezes and crashes caused by watchdog timer timeouts\nLocal APT repo system integrated in the jailbreak to verify the integrity of the core packages and repair them if they are corrupted\nExtended and improved assertion to prevent unexpected results such as bootloops caused by filesystem corruption\nBetter system security, battery life and performance\nSignificantly faster Cydia\nModifications to Cydia were approved by the creator of Cydia (Saurik)\nFully working debugserver\nNo DRM\nNo installation restrictions",
+      "localizedDescription": "The most advanced jailbreak tool for iOS 11.0 to iOS 14.3\n\nStable: Utilizing proper and deterministic techniques, jail​break stability is guaranteed.\nSecure: Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.\nExtensively Tested: Unc0ver has been extensively tested to ensure it's a seamless experience on all devices.",
       "name": "Unc0ver",
       "screenshotURLs": [
         "https://i.imgur.com/I3aRpPO.jpg",
         "https://i.imgur.com/mERBTaF.jpg"
       ],
-      "size": 35476561,
+      "size": 58380850,
       "subtitle": "The most advanced jailbreak tool",
       "tintColor": "000000",
-      "version": "4.3.1",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "Bumped version to 4.3.1 due to a github bug causing an older file to be temporarily available\nAdd support for rebooting the userspace for the first time in a jailbreak\nAdd support for injecting to the entire userspace\nAdd support for looking up or registering services from the sandbox with the cy: prefix for developers\nReboot the userspace after jailbreaking\nMake major design changes to preserve stock system performance\nFix random reboots, freezes, memory issues and any known problem that affected system services or apps\nFix persistent software update blocker on iOS 13 (Works in the jailed state too)\nFix a design problem that affected the Succession restore tool\nAutomatically re-enable software updates when restoring RootFS"
+      "version": "6.0.0",
+      "versionDate": "2021-02-26T14:00:00-07:00",
+      "versionDescription": "Added support for iOS 14-14.3 for all devices, including iPhone 12!"
     },
     {
       "bundleIdentifier": "com.electrateam.chimera",
       "developerName": "Electra Team",
-      "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
+      "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.2-12.2-12.5.ipa",
       "iconURL": "https://chimera.sh/img/icon.png",
-      "localizedDescription": "Jailbreak for all devices, iOS 12 — 12.2 and 12.4\n\nNote: Only Nonce setter available on 12.1.2 - 12.3 and 12.4 on A12\nNote: 12.1.3 - 12.3 and 12.4 only supported on A7 - A11 devices. All devices supported on 12.0 - 12.1.2\nNote: Some 12.3 betas are compatible with Chimera. (Beta 6 is not compatible)",
+      "localizedDescription": "Jailbreak for all devices, from iOS 12.2 to 12.5.1\n\nNote: Only Nonce setter available on 12.1.2 - 12.3 and 12.4 on A12\nNote: 12.1.3 - 12.5.1 only supported on A7 - A11 devices. All devices supported on 12.0 - 12.1.2\nOn iOS 12 to 12.1.2? Download the IPA from https://chimera.sh instead! (why are you on such an old ios tho)",
       "name": "Chimera",
       "screenshotURLs": [
         "https://chimera.sh/img/jumbotron.png",
         "https://i.imgur.com/dpeAFtg.jpg"
       ],
-      "size": 91350280,
+      "size": 31098621,
       "subtitle": "Your device, your way.",
       "tintColor": "36AEB9",
-      "version": "1.4.0",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "This uses libhooker internally instead of substitute to apply some patches. (Your tweaks will still run on substitute, but the jailbreak itself now runs on libhooker and should be a lot more stable)"
+      "version": "1.6.2",
+      "versionDate": "2021-02-06T18:00:00-07:00",
+      "versionDescription": "* Fully reliable userspace reboot\n* Sileo icon now shows up reliably on fresh bootstraps\n* uicache runs on rootfs restore and removes jailbreak app icons\n* New Chimera splash screen on userspace reboot"
     },
     {
       "bundleIdentifier": "com.louisanslow.record",
@@ -57,7 +57,7 @@
     {
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Majd Alfhaily",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/YouTube_v15.13_Cercube5_v5.1.16.ipa",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/YouTube_v16.8.2_Cercube_v5.2.12.ipa",
       "iconURL": "https://apt.alfhaily.me/cdn/assets/cercube-icon.png",
       "localizedDescription": "Cercube 5 is the ultimate tweak for YouTube app adding tons of features including downloading videos, downloading as audio, disabling ads, background playback, change tab bar layout, and selecting default video quality.\n\nThe tweak works on YouTube and it offers all options available in the original app. Login to your account, view your playlists, subscriptions, trending videos, inbox, and more. \n\nCercube features:\n    - Save videos up to 4K resolution.\n- Save videos as audio only.\n- Set default download quality.\n- Manage and share downloads to any app.\n- Import downloads to Music or Videos.\n- Play YouTube videos using PiP.\n- Set default player quality on WiFi.\n- Set default player quality on 3G/4G.\n- Block all advertisements.\n- Enable background playback.\n- Play in high quality on Mobile Data.",
       "name": "Cercube for YouTube 5",
@@ -68,12 +68,12 @@
         "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
         "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
       ],
-      "size": 95583027,
+      "size": 103051129,
       "subtitle": "The YouTube you've always wanted. Ad blocking, video downloading, and more!",
       "tintColor": "DB3020",
-      "version": "15.13",
-      "versionDate": "2020-04-04T14:00:00-07:00",
-      "versionDescription": "Fixed Cercube"
+      "version": "16.8.2",
+      "versionDate": "2021-03-01T14:00:00-07:00",
+      "versionDescription": "Updated YouTube base to v16.8.2 and Cercube to v5.2.12"
     },
     {
       "bundleIdentifier": "com.toyopagroup.picaboo",
@@ -124,7 +124,7 @@
       "developerName": "Spotify",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Spotify_v8.5.53_Spos_v8.5.52_Spotilife.ipa",
       "iconURL": "https://repo-cdn.dynastic.co/282547841560215552.79b497042913ea40bdebaab2bf6d32e6-332",
-      "localizedDescription": "Spotilife + Sposify. \nSpotilife: free Spotify Premium. \nSposify: \nThis tweak which adds various enhancements to the Spotify application\nInstructions\n\n    Go into Spotify Settings then tap the Burger Menu Icon for the Sposify Menu\n\nHome Additions\n\n    Connect Access Button\n    Import Your Music\n    Voice Search\n    Verified Profile Badge\n    No Burger Menu Icon on Lockscreen\n\nYour Library Additions\n\n    Show Album & Artist Recommendations\n    Create Playlist New Interface\n    Open Canvas Playlist\n    True Shuffle\n    No Shuffle on Big Play Button\n    Hide Create Playlist\n    Old Artists & Playlists Interface\n    View Artists Offline\n\nNow Playing View Additions\n\n    Long-Press on any Canvas to Save them.\n    Align Text to Top\n    Auto Hide Duration Labels\n    Blackout Mode\n    Canvas Choice Button\n    Canvas Tap\n    Car View\n    Show Statusbar\n    Realtime Lyrics Button\n    Realtime Lyrics Popup\n\nNow Playing View Annoyances\n\n    Disable Genius Lyrics\n    Disable Storylines\n    Disable Canvas\n    Disable Queue Screen Controls\n    Disable Social Listening Section\n\nCanvas Instructions\n\n    Any Canvas you Save will be Saved to an Album called Canvas in Your Photos.",
+      "localizedDescription": "PROBABLY DOESNT WORK, WAIT FOR UPDATE! Spotilife + Sposify. \nSpotilife: free Spotify Premium. \nSposify: \nThis tweak which adds various enhancements to the Spotify application\nInstructions\n\n    Go into Spotify Settings then tap the Burger Menu Icon for the Sposify Menu\n\nHome Additions\n\n    Connect Access Button\n    Import Your Music\n    Voice Search\n    Verified Profile Badge\n    No Burger Menu Icon on Lockscreen\n\nYour Library Additions\n\n    Show Album & Artist Recommendations\n    Create Playlist New Interface\n    Open Canvas Playlist\n    True Shuffle\n    No Shuffle on Big Play Button\n    Hide Create Playlist\n    Old Artists & Playlists Interface\n    View Artists Offline\n\nNow Playing View Additions\n\n    Long-Press on any Canvas to Save them.\n    Align Text to Top\n    Auto Hide Duration Labels\n    Blackout Mode\n    Canvas Choice Button\n    Canvas Tap\n    Car View\n    Show Statusbar\n    Realtime Lyrics Button\n    Realtime Lyrics Popup\n\nNow Playing View Annoyances\n\n    Disable Genius Lyrics\n    Disable Storylines\n    Disable Canvas\n    Disable Queue Screen Controls\n    Disable Social Listening Section\n\nCanvas Instructions\n\n    Any Canvas you Save will be Saved to an Album called Canvas in Your Photos.",
       "name": "Spotify++",
       "screenshotURLs": [
         "https://repo-cdn.dynastic.co/290772106256318465.d92d68496f31b2913e50b96274549ead-750",
@@ -146,7 +146,7 @@
       "developerName": "Majd Alfhaily",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Instagram-v135.1_Rocket-v3.6.14_IGShowLike-v1.0.3.ipa",
       "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/rocket.jpg",
-      "localizedDescription": "Rocket for Instagram is the one and only tweak that you'll need for Instagram. Made by Instagram users for Instagram users.\nAnonymous Viewer\n\nView other users' stories and messages without notifying them that you've seen their media.\nGrid Feed Layout\n\nRocket for Instagram brings the much-beloved grid layout for the home feed.\nSave Posts to Gallery\n\nWith Rocket for Instagram, you can save any photo or video posted on Instagram to your device.\nFriendship Status\n\nCheck whether other users follow you or not by simply visiting their own profile.",
+      "localizedDescription": "PROBABLY DOESNT WORK, WAIT FOR UPDATE! Rocket for Instagram is the one and only tweak that you'll need for Instagram. Made by Instagram users for Instagram users.\nAnonymous Viewer\n\nView other users' stories and messages without notifying them that you've seen their media.\nGrid Feed Layout\n\nRocket for Instagram brings the much-beloved grid layout for the home feed.\nSave Posts to Gallery\n\nWith Rocket for Instagram, you can save any photo or video posted on Instagram to your device.\nFriendship Status\n\nCheck whether other users follow you or not by simply visiting their own profile.",
       "name": "Instagram Rocket",
       "screenshotURLs": [
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
@@ -164,7 +164,7 @@
     {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodiv18.6.ipa",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/kodi.jpg",
       "localizedDescription": "Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
       "name": "Kodi",
@@ -172,29 +172,29 @@
         "https://i.imgur.com/W0S0JaF.jpg",
         "https://i.imgur.com/KB1juNm.jpg",
       ],
-      "size": 2184796,
+      "size": 116595397,
       "subtitle": "The ultimate entertainment center",
       "tintColor": "12B2E7",
-      "version": "18.6",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "Audio:\nFixes around visualisations\nFixes around pause/resume\nFixes around TrueHD crashes\nWorkaround firmware bug (AMLogic v23) (sidenote: there are many more Android audio fixes that can't be merged into 18.x Leia because of old AMLogic workarounds)\nFix to correctly resume audio-only MPEG-TS streams\nCorrect headphone enumeration (Android)\n\nBuild System:\nUpdates for missing includes\nUpdates for Cmake (Windows)\nUpdates for device handling and packaging (macOS)\n\nGames:\nFixes for launching disc images and .zip files\nFixes for black screen for RGB emulators (Rpi)\n\nInterface/Look-and-feel:\nFixes around TextureCache\nFixes for windowing, refresh rate, mode change and others (Android)\nFixes for floating/split keyboard (iOS)\nFix for artist slideshow (Estuary)\nFix media view from addon given content\n\nPlayback/Display:\nFixed race condition for OnPlaybackStarted\nFixes for MIME type (Android)\nSupport for DolbyVision streams via addons\nFixes for maximum width and height/vertical-shift (Android)\nFix for scanning in sub-directories\nFix size of EAGL layer on external screen (iOS)\nFix for glTexImage3D (Linux)\nFix for seeking issues\nReset playlist on new file playback\n\nPVR:\nFix for multiline episode names\n\nOther/General:\nFixed incorrectly formatted region time\nPass JSON serialised path settings to python scrapers\nFix file access on auto-mounted sources\nFix seeking with FileCache lockup\nFix passthrough on USB devices (Android)\nFix crash if profile.xml gets broken\nFix cache forward size on EOF"
+      "version": "19.0",
+      "versionDate": "2021-02-20T12:00:00-07:00",
+      "versionDescription": "Updated to Kodi 19.0. View the changelog here: https://kodi.tv/article/kodi-190-matrix-release"
     },
     {
       "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
       "developerName": "libRetro",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/RetroArch1.8.5.ipa",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/RetroArch_v1.9.0.ipa",
       "iconURL": "https://www.libretro.com/wp-content/uploads/2016/01/ic_launcher.png",
       "localizedDescription": "RetroArch is a frontend for emulators, game engines and media players.\n\nIt enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!",
       "name": "RetroArch",
       "screenshotURLs": [
       "https://i.imgur.com/aDXoWTT.png"
       ],
-      "size": 252618524,
+      "size": 255389680,
       "subtitle": "All-in-One emulator for iOS.",
       "tintColor": "000000",
-      "version": "1.8.5",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "3DS: Keep the bottom screen hidden on sleep/wakeup. When the 3DS wakes back up after being closed, the bottom screen needs to be reinitialized. Adding the condition here will cause the screen to be turned on or off based on the state of ctr_bottom_screen_enabled, as you’d expect\nANDROID/CHROMEBOOK/CRASH: Fix Chromebook crashes (on x86 x64) when touching the screen\nBUGFIX: Prevent double input when using ‘return’ key (hardware) to close on-screen keyboard\nBUGFIX: Fix mouse capture hotkey not working\nBUGFIX: Avoid overflow when calculating multiplying performance counter\nBUGFIX: Retroarch overlay displaying “Game remap file loaded.” on the overlay instead of “Core remap file loaded.” when only a core remap file is present\nCHEEVOS/BUGFIX: Achievement triggers could cause Retroarch to Crash\nCHEEVOS: Don’t block Sameboy core because it only exposes some memory\nCHEEVOS: Support for extended Sega CD memory\nCHEEVOS: Show RetroAchievements Hash in content information list\nCHEEVOS: If the core says it’s exposing SYSTEM_RAM, give it the benefit of the doubt\nCHEEVOS: RetroAchievements rich presence for RA.org website/Discord\nCHEEVOS: Reset token when username or password changes\nCHEEVOS: Display measured progress on locked achievements\nCHEEVOS: Queue multiple popups\nCHEEVOS: Add delay retries to leaderboard submits\nCHEEVOS: Prevent buffer overflow when encountering an unknown macro\nCORE UPDATER: Prevent hang when fetching core list if HTTP transfer fails\nDISK CONTROL: Add disk labels to ‘disk inserted’ notifications\nEMSCRIPTEN: Recreate input event listeners properly\nFFMPEG CORE: Fix crash on seeking when using HW decoding in some cases\nLIBRETRO: Add disk control interface API extension\nLINUX: Avoid possible crash when running retroarch at startup\nLINUX/GLX: Fix threaded video crashes/instability because of GLX OML sync callbacks\nLOCALIZATION: Update French translation\nLOCALIZATION: Update Korean translation\nLOCALIZATION: Update Polish translation\nLOCALIZATION: Update Spanish translation\nLOCALIZATION: Update Portuguese Brazilian translation\nMENU: Add Menu Scroll Acceleration option\nMENU: Automatically select currently checked item when opening drop-down lists\nMENU: Fix smooth (vertical) line ticker scroll speed\nMENU: Don’t flush on override/remap messages\nMENU/DATETIME: Adds some new timedate styles that follow the DD/MM/YYYY format, found in several European countries\nMENU/DATETIME: Modifies the existing translation files in order to accommodate the new options that are now available\nMENU/DATETIME: Reorders the timedate view options based on a decreasing order of the quantity of information displayed, so that they are more convenient to switch around and easily categorized\nMENU/BUGFIX: Fix bug – if you were in XMB and you would set menu driver to RGUI, you could no longer go to the left or right tab\nMENU/MATERIALUI: Add option to remove navigation bar\nMENU/OZONE: Add DPI-based scaling\nMENU/OZONE: Add rudimentary pointer support\nMENU/OZONE: Add ‘Nord’ and ‘Gruvbox Dark’ themes\nMENU/OZONE/POINTER: Pointer can be used to switch between sidebar and entries list\nMENU/OZONE/POINTER: Pointer can be used to select sidebar and entries list items\nMENU/OZONE/POINTER: Both sidebar and entries list can be scrolled by dragging\nMENU/OZONE/POINTER: Clicking/pressing the header or footer produces a ‘cancel’ action\nMENU/OZONE/POINTER: Cursor focus follows mouse pointer from sidebar to entries list (and vice versa)\nMENU/OZONE/POINTER: In entries list, item under cursor is automatically selected (with some fudging to ensure this doesn’t break mouse wheel scrolling)\nMENU/OZONE/POINTER: In sidebar, item under cursor is not automatically selected (this is too jarring)\nMENU/RGUI: Add ‘Flux’ theme\nMENU/XMB: New color themes ‘Cube Purple’, ‘Family Red’, etc\nNETPLAY/MENU/BUGFIX: Fix Netplay Stateless Mode doesn’t save. Affects other netplay settings which can be overridden by commandline option\nODROID GO ADVANCE: Rotation support\nNETPLAY/ROOMS/BUGFIX: Prevent out-of-bounds array indexing when displaying/selecting netplay rooms in menus\nSCANNER: Add ‘Arcade DAT Filter’ Option\nSCANNER: Add scanning Korea and Asia PS1 discs\nSCANNER: Add support for scanning PSP Korean\nVIDEO: Set hardware ‘Bilinear filtering’ off by default\nVIDEO/WIDGETS: Widgets are now menu-independent\nVIDEO/WIDGETS: Allow notifications to use full screen width when not displaying menu\nVIDEO/WIDGETS: DPI-based scaling\nVIDEO/WIDGETS: Fix volume widget scaling\nVIDEO/WIDGETS: Add independent widget scale override settings for fullscreen/windowed modes\nVIDEO/WIDGETS/BUGFIX: Prevent improper display of (old style) OSD text when widgets are enabled\nVIDEO/WIDGETS/THREADED/BUGFIX: Fix issue – corruption of menu widgets when running some cores (e.g. VICE) with threaded video enabled\nWIFI/CONNMANCTL: Display more characters from SSID"
+      "version": "1.9.0",
+      "versionDate": "2020-08-09T12:00:00-07:00",
+      "versionDescription": "Updated RetroArch to 1.9.0. View the changelog here: https://www.libretro.com/index.php/retroarch-1-9-0-released/"
     },
     {
       "bundleIdentifier": "com.provenance-emu.provenance",
@@ -217,7 +217,7 @@
     {
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "PPSSPP Team",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/PPSSPP_v1.9.3-586-g3f718eadf.ipa",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/PPSSPP_v1.11.2-265-g45628cde9.ipa",
       "iconURL": "https://www.ppsspp.org/img/ppsspp-icon.png",
       "localizedDescription": "Play your PSP games in HD!\nPPSSPP can run your PSP games on your PC in full HD resolution, and play them on Android too. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.\n\nEven on modern Android phones and tablets, you can often run at double the original resolution.\n\nEnhance your experience!\nPlay in HD resolutions and more\nPlay on a tablet for big-screen mobile gaming\nCustomize on-screen touch controls or use an external controller or keyboard\nSave and restore game state anywhere, anytime\nCrank up the anisotropic filtering and texture scaling\nContinue where you left off by transferring saves from your real PSP\nFree & Open Source\nPPSSPP is an open source project, licensed under the GPL 2.0 (or later). Anyone is welcome to contribute improvements to the code. Partly thanks to such contributions, PPSSPP's compatibility is steadily increasing, letting us all play our PSP games on the devices of our choice.",
       "name": "PPSSPP Stable",
@@ -225,40 +225,32 @@
         "https://i.imgur.com/ef8iews.jpg",
         "https://i.imgur.com/j50vMOv.jpg"
       ],
-      "size": 18194333,
+      "size": 29741071,
       "subtitle": "PSP emulator for iOS",
       "tintColor": "8BC3D3",
-      "version": "1.9.3",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "various bug fixes"
+      "version": "1.11.2",
+      "versionDate": "2021-02-07T12:00:00-07:00",
+      "versionDescription": "Updated to 1.11.2. Includes lots of bugfixes and improvements."
     }
   ],
   "identifier": "com.randomblock1.randomsource",
   "name": "RandomSource",
   "news": [
-     {
+    {
+     "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 3/1/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube++\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP",
+     "date": "2021-03-01",
+     "identifier": "randomsource-status,
+     "notify": false,
+     "tintColor": "3B878D",
+     "title": "IMPORTANT MESSAGE"
+    },
+    {
       "caption": "Randomblock1.com has been acquired. Please update your sources to https://randomblock1.com/altstore. Randomblock1.rocks no longer works, and if you continue using randomsource.imfast.io it may stop working.",
       "date": "2020-09-19",
       "identifier": "randomsource-randomblock1com",
-      "notify": true,
+      "notify": false,
       "tintColor": "3B878D",
       "title": "IMPORTANT MESSAGE"
-     },
-     {
-      "caption": "The current domain name for RandomSource will expire in a week, and I don't plan to renew it. Please add https://randomsource.imfast.io instead if you want to keep using it. Additionally, RandomSource will not be updated until AltStore sources are availible to the public. The developer seems to just be holding it back only for Patreon users, even though it is ready for everyone to use. It seems EXTREMELY greedy at this point; sources have been complete for a few months now, and it seems even more greedy since the pandemic has affected many people and their jobs. I encourage you to voice your concerns about it to the developer.",
-      "date": "2020-09-12",
-      "identifier": "randomsource-expiry",
-      "notify": false,
-      "tintColor": "3B878D",
-      "title": "READ ME, IMPORTANT!"
-     },
-     {
-      "caption": "RandomSource's utility source and tweaked source have merged.",
-      "date": "2020-04-08",
-      "identifier": "randomsource-merge",
-      "notify": false,
-      "tintColor": "3B878D",
-      "title": "Sources Merged"
     },
     {
       "caption": "Great! Everything seems to be in working order, and you can now access RandomSource apps.",
@@ -272,6 +264,6 @@
   ],
   "sourceURL": "https://randomblock1.github.io/randomsource/apps.json",
   "userInfo": {
-    "patreonAccessToken": "BSLUtJEvetvJNgOsqz0v98-FmBO5JYDfuO90o-reGB8"
+    "patreonAccessToken": "vfuSOfSYTUC8pEq6TM9r6uoL-T-uTJEI85hFescT4AM"
   }
 }
