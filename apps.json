@@ -237,12 +237,12 @@
   "name": "RandomSource",
   "news": [
     {
-     "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 3/1/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube++\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP",
-     "date": "2021-03-01",
-     "identifier": "randomsource-status,
-     "notify": false,
-     "tintColor": "3B878D",
-     "title": "IMPORTANT MESSAGE"
+      "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 3/1/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube++\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP",
+      "date": "2021-03-01",
+      "identifier": "randomsource-status,
+      "notify": false,
+      "tintColor": "3B878D",
+      "title": "IMPORTANT MESSAGE"
     },
     {
       "caption": "Randomblock1.com has been acquired. Please update your sources to https://randomblock1.com/altstore. Randomblock1.rocks no longer works, and if you continue using randomsource.imfast.io it may stop working.",
