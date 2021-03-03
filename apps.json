@@ -3,7 +3,7 @@
     {
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Pwn20wnd",
-      "downloadURL": "https://unc0ver.dev/downloads/6.0.1/3cf530404edc45a752b1e7a1674024a1430ec0af/unc0ver_Release_6.0.1.ipa",
+      "downloadURL": "https://unc0ver.dev/downloads/6.0.2/295da57f139b0b2e4151458ffc966477872d36dc/unc0ver_Release_6.0.2.ipa",
       "iconURL": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
       "localizedDescription": "The most advanced jailbreak tool for iOS 11.0 to iOS 14.3\n\nStable: Utilizing proper and deterministic techniques, jail​break stability is guaranteed.\nSecure: Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.\nExtensively Tested: Unc0ver has been extensively tested to ensure it's a seamless experience on all devices.",
       "name": "Unc0ver",
@@ -14,9 +14,9 @@
       "size": 58380850,
       "subtitle": "The most advanced jailbreak tool",
       "tintColor": "000000",
-      "version": "6.0.1",
-      "versionDate": "2021-03-01T19:00:00-07:00",
-      "versionDescription": "Fix loading launch scripts on iOS 14\nFix disable tweaks switch\nFix stability and reliability problems on iOS 14\nFix some jailbreak apps crashing on launch on iOS 14"
+      "version": "6.0.2",
+      "versionDate": "2021-03-03T14:00:00-07:00",
+      "versionDescription": "More fixes for iOS 14"
     },
     {
       "bundleIdentifier": "com.electrateam.chimera",
