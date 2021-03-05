@@ -37,6 +37,24 @@
       "versionDescription": "* Fully reliable userspace reboot\n* Sileo icon now shows up reliably on fresh bootstraps\n* uicache runs on rootfs restore and removes jailbreak app icons\n* New Chimera splash screen on userspace reboot"
     },
     {
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "developerName": "Electra Team",
+      "downloadURL": "https://cdn.discordapp.com/attachments/668928257428815892/817513940141211698/Odyssey_1.3.1b1.ipa",
+      "iconURL": "https://theodyssey.dev/assets/images/icon.png",
+      "localizedDescription": "A new jailbreak for a new era. Odyssey is a snappy, responsive experience that you can't find anywhere else, with support for all iOS versions from iOS 13.0-13.7, including A12 & A13 devices. Odyssey is completely open source, written almost entirely in Swift and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Odyssey comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Odyssey also comes equipped with full libhooker support, so speed and reliabilty are ensured.",
+      "name": "Odyssey",
+      "screenshotURLs": [
+        "https://theodyssey.dev/assets/images/iphones.png",
+        "https://theodyssey.dev/assets/images/iphone.png"
+      ],
+      "size": 21209781,
+      "subtitle": "A new jailbreak for a new era.",
+      "tintColor": "CC8BDA",
+      "version": "1.3.1b1",
+      "versionDate": "2021-03-05T16:00:00-07:00",
+      "versionDescription": "New cicuta_virosa exploit testing."
+    },
+    {
       "bundleIdentifier": "com.louisanslow.record",
       "developerName": "Louis Anslow",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Rewound.ipa",
@@ -171,8 +189,8 @@
   "name": "RandomSource",
   "news": [
     {
-      "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 3/4/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube++\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP\n* Instagram++",
-      "date": "2021-03-04",
+      "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 3/5/21:\n\n* Unc0ver\n* Odyssey\n* Chimera\n* Rewound\n* YouTube++\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP\n* Instagram++",
+      "date": "2021-03-05",
       "identifier": "randomsource-status",
       "notify": true,
       "tintColor": "3B878D",
