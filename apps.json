@@ -15,7 +15,7 @@
       "subtitle": "The most advanced jailbreak tool",
       "tintColor": "000000",
       "version": "6.1.0",
-      "versionDate": "2021-03-04T17:30:00-07:00",
+      "versionDate": "2021-03-04T17:30:00-06:00",
       "versionDescription": "Fix all known bugs for iOS 14"
     },
     {
@@ -33,7 +33,7 @@
       "subtitle": "Your device, your way.",
       "tintColor": "36AEB9",
       "version": "1.6.2",
-      "versionDate": "2021-02-06T18:00:00-07:00",
+      "versionDate": "2021-02-06T18:00:00-06:00",
       "versionDescription": "* Fully reliable userspace reboot\n* Sileo icon now shows up reliably on fresh bootstraps\n* uicache runs on rootfs restore and removes jailbreak app icons\n* New Chimera splash screen on userspace reboot"
     },
     {
@@ -51,7 +51,7 @@
       "subtitle": "A new jailbreak for a new era.",
       "tintColor": "CC8BDA",
       "version": "1.3.1b1",
-      "versionDate": "2021-03-05T16:00:00-07:00",
+      "versionDate": "2021-03-05T16:00:00-06:00",
       "versionDescription": "New cicuta_virosa exploit testing."
     },
     {
@@ -69,7 +69,7 @@
       "subtitle": "iPod Classic for iPhone",
       "tintColor": "000000",
       "version": "2019.7",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2020-03-24T14:00:00-06:00",
       "versionDescription": "Rewound has been pulled from AppStore. Further updates are unlikely."
     },
     {
@@ -90,7 +90,7 @@
       "subtitle": "The YouTube you've always wanted. Ad blocking, video downloading, and more!",
       "tintColor": "DB3020",
       "version": "16.8.2",
-      "versionDate": "2021-03-01T14:00:00-07:00",
+      "versionDate": "2021-03-01T14:00:00-06:00",
       "versionDescription": "Updated YouTube base to v16.8.2 and Cercube to v5.2.12"
     },
     {
@@ -110,7 +110,7 @@
       "subtitle": "Instagram Rocket",
       "tintColor": "EF9141",
       "version": "177.0",
-      "versionDate": "2021-03-01T16:00:00-07:00",
+      "versionDate": "2021-03-01T16:00:00-06:00",
       "versionDescription": "Updated Instagram and Rocket"
     },
     {
@@ -128,7 +128,7 @@
       "subtitle": "The ultimate entertainment center",
       "tintColor": "12B2E7",
       "version": "19.0",
-      "versionDate": "2021-02-20T12:00:00-07:00",
+      "versionDate": "2021-02-20T12:00:00-06:00",
       "versionDescription": "Updated to Kodi 19.0. View the changelog here: https://kodi.tv/article/kodi-190-matrix-release"
     },
     {
@@ -145,7 +145,7 @@
       "subtitle": "All-in-One emulator for iOS.",
       "tintColor": "000000",
       "version": "1.9.0",
-      "versionDate": "2020-08-09T12:00:00-07:00",
+      "versionDate": "2020-08-09T12:00:00-06:00",
       "versionDescription": "Updated RetroArch to 1.9.0. View the changelog here: https://www.libretro.com/index.php/retroarch-1-9-0-released/"
     },
     {
@@ -163,7 +163,7 @@
       "subtitle": "Emulator for iOS",
       "tintColor": "3884FF",
       "version": "1.5b-2774",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2020-03-24T14:00:00-06:00",
       "versionDescription": "beta version- no changelog included"
     },
     {
@@ -181,7 +181,7 @@
       "subtitle": "PSP emulator for iOS",
       "tintColor": "8BC3D3",
       "version": "1.11.2",
-      "versionDate": "2021-02-07T12:00:00-07:00",
+      "versionDate": "2021-02-07T12:00:00-06:00",
       "versionDescription": "Updated to 1.11.2. Includes lots of bugfixes and improvements."
     }
   ],
