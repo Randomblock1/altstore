@@ -3,7 +3,7 @@
     {
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Pwn20wnd",
-      "downloadURL": "https://unc0ver.dev/downloads/6.0.2/295da57f139b0b2e4151458ffc966477872d36dc/unc0ver_Release_6.0.2.ipa",
+      "downloadURL": "https://unc0ver.dev/downloads/6.1.0/c6de3a4c9486f74c49dbfe01507f3cf27e4e1219/unc0ver_Release_6.1.0.ipa",
       "iconURL": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
       "localizedDescription": "The most advanced jailbreak tool for iOS 11.0 to iOS 14.3\n\nStable: Utilizing proper and deterministic techniques, jail​break stability is guaranteed.\nSecure: Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.\nExtensively Tested: Unc0ver has been extensively tested to ensure it's a seamless experience on all devices.",
       "name": "Unc0ver",
@@ -14,9 +14,9 @@
       "size": 58380850,
       "subtitle": "The most advanced jailbreak tool",
       "tintColor": "000000",
-      "version": "6.0.2",
-      "versionDate": "2021-03-03T14:00:00-07:00",
-      "versionDescription": "More fixes for iOS 14"
+      "version": "6.1.0",
+      "versionDate": "2021-03-04T17:30:00-07:00",
+      "versionDescription": "Fix all known bugs for iOS 14"
     },
     {
       "bundleIdentifier": "com.electrateam.chimera",
@@ -171,8 +171,8 @@
   "name": "RandomSource",
   "news": [
     {
-      "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 3/1/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube++\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP\n* Instagram++",
-      "date": "2021-03-01",
+      "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 3/4/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube++\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP\n* Instagram++",
+      "date": "2021-03-04",
       "identifier": "randomsource-status",
       "notify": true,
       "tintColor": "3B878D",
