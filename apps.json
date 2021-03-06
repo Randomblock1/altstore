@@ -16,7 +16,7 @@
       "tintColor": "000000",
       "version": "6.1.1",
       "versionDate": "2021-03-06T16:00:00-06:00",
-      "versionDescription": "More bugfixes for iOS 14"
+      "versionDescription": "Make Xcode debugging work on iOS 14 by patching an Apple bug that caused it to break after rebooting userspace"
     },
     {
       "bundleIdentifier": "com.electrateam.chimera",
