@@ -39,7 +39,7 @@
     {
       "bundleIdentifier": "org.coolstar.odyssey",
       "developerName": "Electra Team",
-      "downloadURL": "https://cdn.discordapp.com/attachments/668928257428815892/817513940141211698/Odyssey_1.3.1b1.ipa",
+      "downloadURL": "https://cdn.discordapp.com/attachments/668928257428815892/819903339978424360/Odyssey_1.3.1b2.ipa",
       "iconURL": "https://theodyssey.dev/assets/images/icon.png",
       "localizedDescription": "A new jailbreak for a new era. Odyssey is a snappy, responsive experience that you can't find anywhere else, with support for all iOS versions from iOS 13.0-13.7, including A12 & A13 devices. Odyssey is completely open source, written almost entirely in Swift and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Odyssey comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Odyssey also comes equipped with full libhooker support, so speed and reliabilty are ensured.",
       "name": "Odyssey",
@@ -50,9 +50,9 @@
       "size": 21209781,
       "subtitle": "A new jailbreak for a new era.",
       "tintColor": "CC8BDA",
-      "version": "1.3.1b1",
-      "versionDate": "2021-03-05T16:00:00-06:00",
-      "versionDescription": "New cicuta_virosa exploit testing."
+      "version": "1.3.1b2",
+      "versionDate": "2021-03-12T12:00:00-06:00",
+      "versionDescription": "Various fixes"
     },
     {
       "bundleIdentifier": "com.louisanslow.record",
