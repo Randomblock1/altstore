@@ -75,16 +75,12 @@
     {
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Majd Alfhaily",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/YouTube_v16.8.2_Cercube_v5.2.12.ipa",
-      "iconURL": "https://apt.alfhaily.me/cdn/assets/cercube-icon.png",
-      "localizedDescription": "Cercube 5 is the ultimate tweak for YouTube app adding tons of features including downloading videos, downloading as audio, disabling ads, background playback, change tab bar layout, and selecting default video quality.\n\nThe tweak works on YouTube and it offers all options available in the original app. Login to your account, view your playlists, subscriptions, trending videos, inbox, and more. \n\nCercube features:\n    - Save videos up to 4K resolution.\n- Save videos as audio only.\n- Set default download quality.\n- Manage and share downloads to any app.\n- Import downloads to Music or Videos.\n- Play YouTube videos using PiP.\n- Set default player quality on WiFi.\n- Set default player quality on 3G/4G.\n- Block all advertisements.\n- Enable background playback.\n- Play in high quality on Mobile Data.",
-      "name": "Cercube for YouTube 5",
+      "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/YouTube_v16.8.2_Cercube_v5.2.12.ipa",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/a7/b6/b7/a7b6b7e9-7542-6fd9-9423-4cbb7db548a6/source/512x512bb.jpg",
+      "localizedDescription": "- No Video And No Homescreen Ads \r\n- Background Playback \r\n- Picture-In-Picture (iOS 14+) \r\n- Video Downloading (Can Import Downloaded Videos To Camera Roll) \r\n- Audio Downloading (iPhone Only) \r\n- Unlock UHD Quality (iOS 14+) \r\n- Allow HD On Cellular Data \r\n- Disable Video Endscreen Popups \r\n- Disable Video Info Cards \r\n- Disable Video AutoPlay \r\n- Disable Double Tap To Skip \r\n- Always Show Player Bar \r\n- Show Status Bar In Overlay (Portrait Only) \r\n- Hide Previous & Next Button In Overlay \r\n- Hide AutoPlay Switch In Overlay \r\n- Hide Captions/Subtitles Button In Overlay \r\n- Disable Related Videos In Overlay \r\n- Hide Overlay Dark Background \r\n- Hide Tab Bar Labels \r\n- Hide Tabs (Explore, Create/Upload[+], Subscriptions, Library) \r\n- Enable iPad Style On iPhone \r\n- No Download Button \r\n- No Comments Section \r\n- No Cast Button \r\n- No Notification Button \r\n- No Search Button \r\n- No Topics Section \r\n- Disable YouTube Kids \r\n- Disable Voice Search \r\n- Disable Hints \r\n- Hide Channel Watermark \r\n- Oled Dark Mode (iOS 13) \r\n- Colour Options (iOS 14+)",
+      "name": "YouTube Reborn",
       "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
+        "null"
       ],
       "size": 103051129,
       "subtitle": "The YouTube you've always wanted. Ad blocking, video downloading, and more!",
