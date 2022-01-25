@@ -3,7 +3,7 @@
     {
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Pwn20wnd",
-      "downloadURL": "https://unc0ver.dev/downloads/6.1.1/decf7c36cc08118dc83ba455f8ca42e0e3cf354c/unc0ver_Release_6.1.1.ipa",
+      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "iconURL": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
       "localizedDescription": "The most advanced jailbreak tool for iOS 11.0 to iOS 14.3\n\nStable: Utilizing proper and deterministic techniques, jail​break stability is guaranteed.\nSecure: Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.\nExtensively Tested: Unc0ver has been extensively tested to ensure it's a seamless experience on all devices.",
       "name": "Unc0ver",
@@ -11,17 +11,17 @@
         "https://i.imgur.com/I3aRpPO.jpg",
         "https://i.imgur.com/mERBTaF.jpg"
       ],
-      "size": 58380850,
+      "size": 54489484,
       "subtitle": "The most advanced jailbreak tool",
       "tintColor": "000000",
-      "version": "6.1.1",
-      "versionDate": "2021-03-06T16:00:00-06:00",
-      "versionDescription": "Make Xcode debugging work on iOS 14 by patching an Apple bug that caused it to break after rebooting userspace"
+      "version": "8.0.2",
+      "versionDate": "2021-12-29T16:00:00-06:00",
+      "versionDescription": "Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8"
     },
     {
       "bundleIdentifier": "com.electrateam.chimera",
       "developerName": "Electra Team",
-      "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.2-12.2-12.5.ipa",
+      "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.4-12.2-12.5.ipa",
       "iconURL": "https://chimera.coolstar.org/img/icon.png",
       "localizedDescription": "Jailbreak for all devices, from iOS 12.2 to 12.5.1\n\nNote: Only Nonce setter available on 12.1.2 - 12.3 and 12.4 on A12\nNote: 12.1.3 - 12.5.1 only supported on A7 - A11 devices. All devices supported on 12.0 - 12.1.2\nOn iOS 12 to 12.1.2? Download the IPA from https://chimera.sh instead! (why are you on such an old ios tho)",
       "name": "Chimera",
@@ -29,12 +29,12 @@
         "https://chimera.coolstar.org/img/jumbotron.png",
         "https://i.imgur.com/dpeAFtg.jpg"
       ],
-      "size": 31098621,
+      "size": 34432392,
       "subtitle": "Your device, your way.",
       "tintColor": "36AEB9",
-      "version": "1.6.2",
-      "versionDate": "2021-02-06T18:00:00-06:00",
-      "versionDescription": "* Fully reliable userspace reboot\n* Sileo icon now shows up reliably on fresh bootstraps\n* uicache runs on rootfs restore and removes jailbreak app icons\n* New Chimera splash screen on userspace reboot"
+      "version": "1.6.4",
+      "versionDate": "2021-09-23T10:00:00-06:00",
+      "versionDescription": "* Adds full support for iOS 12.5.5\n* Updates Sileo to 2.2.3\n* Removes fancy animation background on iPhone 5S / 6, iPad Air 1, iPod touch 6 and iPad mini 2 / 3 to use a more basic background in order to improve exploit success rate"
     },
     {
       "bundleIdentifier": "com.louisanslow.record",
@@ -94,7 +94,7 @@
     {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.0.ipa",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.3.ipa",
       "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/kodi.jpg",
       "localizedDescription": "Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
       "name": "Kodi",
@@ -102,12 +102,12 @@
         "https://i.imgur.com/W0S0JaF.jpg",
         "https://i.imgur.com/KB1juNm.jpg"
       ],
-      "size": 116595397,
+      "size": 130389701,
       "subtitle": "The ultimate entertainment center",
       "tintColor": "12B2E7",
-      "version": "19.0",
-      "versionDate": "2021-02-20T12:00:00-06:00",
-      "versionDescription": "Updated to Kodi 19.0. View the changelog here: https://kodi.tv/article/kodi-190-matrix-release"
+      "version": "19.3",
+      "versionDate": "2021-10-25T12:00:00-06:00",
+      "versionDescription": "Updated to Kodi 19.3. View the changelog here: https://kodi.tv/article/kodi-matrix-19-3-release/"
     },
     {
       "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
@@ -127,27 +127,9 @@
       "versionDescription": "Updated RetroArch to 1.9.0. View the changelog here: https://www.libretro.com/index.php/retroarch-1-9-0-released/"
     },
     {
-      "bundleIdentifier": "com.provenance-emu.provenance",
-      "developerName": "Provenance Emu",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Provenance-iOS-1.5b-2774.ipa",
-      "iconURL": "https://gblobscdn.gitbook.com/spaces%2F-LcssjTrcP7HWLfsYZCJ%2Favatar.png",
-      "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems\n\nSystems Supported:\nAtari\n2600\n5200\n7800\nLynx\nJaguar\nBandai\nWonderSwan / WonderSwan Color\nNEC\nPC Engine / TurboGrafx-16 (PCE/TG16)\nPC Engine Super CD-ROM² System / TurboGrafx-CD\nPC Engine SuperGrafx\nPC-FX\nNintendo\nNintendo Entertainment System / Famicom (NES/FC)\nFamicom Disk System\nSuper Nintendo Entertainment System / Super Famicom (SNES/SFC)\nGame Boy / Game Boy Color (GB/GBC)\nVirtual Boy\nNintendo 64 (N64)\nGame Boy Advance (GBA)\nPokémon mini\nSega\nSG-1000\nMaster System\nGenesis / Mega Drive\nGame Gear\nCD / MegaCD\n32X\nSNK\nNeo Geo Pocket / Neo Geo Pocket Color\nSony\nPlayStation (PSX/PS1)\nSystems in Development:\nNintendo\nDS\nSega\nDreamcast (reicast)\nSaturn (yabause)\nSony\nPSP (ppsspp)\nFeatures\nVery Accurate, Full Speed Emulation\nStereo Sound\nSave States (save anywhere/game freezing)\nBattery Saves (native game saves)\nAdjustable Controller Overlay Opacity\nController Support:\nMFi Game Controller Support\niCade Controller Support (8bitdo, etc…)\nLocal Multiplayer via External Controllers\nPortrait and Landscape Orientation\nAutomatic ROM Matching (Game Title, Cover Art, Description, Genre, etc…) via OpenVGDB\nROM Customizations (Cover Art, Game Titles) (Instructions)\nMultiple Options for Managing ROMs, Game Saves and Cover Art:\nImport / Export:\nUploading (via built-in web server)\nImport:\nDownloading (from mobile browsers)\nCopying (from other mobile apps and AirDrop)\nInjecting (with desktop apps)\nGame Library Searching\niOS 9+ (iPhone, iPad)\n3D Touch Shortcuts for Recent Games (iPhone 6s and later, except iPhone SE and iPhone Xʀ)\nTaptic Engine Button Feedback (iPhone 7 and later)\nSpotlight Searching (Setup)",
-      "name": "Provenance",
-      "screenshotURLs": [
-      "https://i.imgur.com/OSkXmYH.png",
-      "https://i.imgur.com/sNFZ85F.jpg"
-      ],
-      "size": 103608274,
-      "subtitle": "Emulator for iOS",
-      "tintColor": "3884FF",
-      "version": "1.5b-2774",
-      "versionDate": "2020-03-24T14:00:00-06:00",
-      "versionDescription": "beta version- no changelog included"
-    },
-    {
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "PPSSPP Team",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/PPSSPP_v1.11.2-265-g45628cde9.ipa",
+      "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/PPSSPP_v1.12.3-759-g5a6bf8b43.ipa",
       "iconURL": "https://www.ppsspp.org/img/ppsspp-icon.png",
       "localizedDescription": "Play your PSP games in HD!\nPPSSPP can run your PSP games on your PC in full HD resolution, and play them on Android too. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.\n\nEven on modern Android phones and tablets, you can often run at double the original resolution.\n\nEnhance your experience!\nPlay in HD resolutions and more\nPlay on a tablet for big-screen mobile gaming\nCustomize on-screen touch controls or use an external controller or keyboard\nSave and restore game state anywhere, anytime\nCrank up the anisotropic filtering and texture scaling\nContinue where you left off by transferring saves from your real PSP\nFree & Open Source\nPPSSPP is an open source project, licensed under the GPL 2.0 (or later). Anyone is welcome to contribute improvements to the code. Partly thanks to such contributions, PPSSPP's compatibility is steadily increasing, letting us all play our PSP games on the devices of our choice.",
       "name": "PPSSPP Stable",
@@ -155,19 +137,19 @@
         "https://i.imgur.com/ef8iews.jpg",
         "https://i.imgur.com/j50vMOv.jpg"
       ],
-      "size": 29741071,
+      "size": 33258309,
       "subtitle": "PSP emulator for iOS",
       "tintColor": "8BC3D3",
-      "version": "1.11.2",
-      "versionDate": "2021-02-07T12:00:00-06:00",
-      "versionDescription": "Updated to 1.11.2. Includes lots of bugfixes and improvements."
+      "version": "1.12.3",
+      "versionDate": "2022-01-25T12:00:00-06:00",
+      "versionDescription": "Updated to 1.12.3. Includes lots of bugfixes and improvements."
     }
   ],
   "identifier": "com.randomblock1.randomsource",
   "name": "RandomSource",
   "news": [
     {
-      "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 5/15/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube Reborn\n* Kodi\n* RetroArch\n* Provenance\n* PPSSPP\n* Instagram++",
+      "caption": "RandomSource is back! Here is are the apps that have been updated and confirmed to work as of 5/15/21:\n\n* Unc0ver\n* Chimera\n* Rewound\n* YouTube Reborn\n* Kodi\n* RetroArch\n* PPSSPP\n* Instagram++",
       "date": "2021-03-05",
       "identifier": "randomsource-status",
       "notify": true,
