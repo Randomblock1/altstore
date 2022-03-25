@@ -1,0 +1,275 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://randomblock1.com/altstore/altstore.schema.json",
+  "title": "AltSource Schema",
+  "description": "A JSON source for AltStore.",
+  "type": "object",
+  "required": ["name", "identifier", "sourceURL", "apps"],
+  "properties": {
+    "name": {
+      "$id": "#root/name",
+      "title": "Name",
+      "description": "Name of your source.",
+      "type": "string",
+      "default": "Example Source",
+      "pattern": "^.*$"
+    },
+    "identifier": {
+      "$id": "#root/identifier",
+      "title": "Identifier",
+      "description": "Unique source identifier.",
+      "type": "string",
+      "default": "com.example.source",
+      "pattern": "^.*$"
+    },
+    "sourceURL": {
+      "$id": "#root/sourceURL",
+      "title": "SourceURL",
+      "description": "URL of your source's JSON file.",
+      "type": "string",
+      "default": "https://example.com/altstore",
+      "pattern": "^.*$"
+    },
+    "apps": {
+      "$id": "#root/apps",
+      "title": "Apps",
+      "type": "array",
+      "default": [],
+      "items": {
+        "$id": "#root/apps/items",
+        "title": "Items",
+        "type": "object",
+        "required": [
+          "name",
+          "bundleIdentifier",
+          "developerName",
+          "version",
+          "versionDate",
+          "downloadURL",
+          "iconURL",
+          "tintColor"
+        ],
+        "properties": {
+          "name": {
+            "$id": "#root/apps/items/name",
+            "title": "Name",
+            "description": "Name of app.",
+            "type": "string",
+            "default": "Example App",
+            "pattern": "^.*$"
+          },
+          "bundleIdentifier": {
+            "$id": "#root/apps/items/bundleIdentifier",
+            "title": "BundleIdentifier",
+            "description": "Bundle ID of app.",
+            "type": "string",
+            "default": "com.example.app",
+            "pattern": "^.*$"
+          },
+          "developerName": {
+            "$id": "#root/apps/items/developerName",
+            "title": "DeveloperName",
+            "description": "Name of app developer.",
+            "type": "string",
+            "default": "John Doe",
+            "pattern": "^.*$"
+          },
+          "version": {
+            "$id": "#root/apps/items/version",
+            "title": "Version",
+            "description": "App version.",
+            "type": "string",
+            "default": "1.0.0",
+            "pattern": "^.*$"
+          },
+          "versionDate": {
+            "$id": "#root/apps/items/versionDate",
+            "title": "VersionDate",
+            "description": "Date when version released. Can be in the future to display a countdown.",
+            "type": "string",
+            "default": "2021-12-31T23:59:59-06:00",
+            "pattern": "^.*$"
+          },
+          "versionDescription": {
+            "$id": "#root/apps/items/versionDescription",
+            "title": "VersionDescription",
+            "description": "Version changelog. Can include newlines with \\n.",
+            "type": "string",
+            "default": "Changelog:\nThing One\nThing Two",
+            "pattern": ".*$"
+          },
+          "downloadURL": {
+            "$id": "#root/apps/items/downloadURL",
+            "title": "DownloadURL",
+            "description": "URL to download app IPA from.",
+            "type": "string",
+            "default": "https://example.com/app/example.ipa",
+            "pattern": "^.*$"
+          },
+          "localizedDescription": {
+            "$id": "#root/apps/items/localizedDescription",
+            "title": "LocalizedDescription",
+            "description": "App description. Can include newlines with \\n.",
+            "type": "string",
+            "default": "Example app\nfeaturing\nnewlines",
+            "pattern": ".*$"
+          },
+          "iconURL": {
+            "$id": "#root/apps/items/iconURL",
+            "title": "IconURL",
+            "description": "URL of app icon to display.",
+            "type": "string",
+            "default": "https://example.com/app/example.png",
+            "pattern": "^.*$"
+          },
+          "tintColor": {
+            "$id": "#root/apps/items/tintColor",
+            "title": "TintColor",
+            "description": "Hex color used to tint the app background.",
+            "type": "string",
+            "default": "000000",
+            "pattern": "^.*$"
+          },
+          "size": {
+            "$id": "#root/apps/items/size",
+            "title": "Size",
+            "description": "Size of IPA in bytes.",
+            "type": "integer",
+            "default": 0
+          },
+          "screenshotURLs": {
+            "$id": "#root/apps/items/screenshotURLs",
+            "title": "ScreenshotURLs",
+            "description": "Array of screenshot URLs",
+            "type": "array",
+            "default": [],
+            "items": {
+              "$id": "#root/apps/items/screenshotURLs/items",
+              "title": "Items",
+              "description": "URL of screenshot image",
+              "type": "string",
+              "default": "https://example.com/screenshot.png",
+              "pattern": "^.*$"
+            }
+          },
+          "permissions": {
+            "$id": "#root/apps/items/permissions",
+            "title": "Permissions",
+            "description": "Optional. Extra permissions this app uses.",
+            "type": "array",
+            "default": [],
+            "items": {
+              "$id": "#root/apps/items/permissions/items",
+              "title": "Items",
+              "type": "object",
+              "properties": {
+                "type": {
+                  "$id": "#root/apps/items/permissions/items/type",
+                  "title": "Type",
+                  "description": "Can be `photos`, `background-audio`, or `background-fetch`.",
+                  "type": "string",
+                  "default": "",
+                  "pattern": "^.*$"
+                },
+                "usageDescription": {
+                  "$id": "#root/apps/items/permissions/items/usageDescription",
+                  "title": "UsageDescription",
+                  "description": "Why this app needs that permission.",
+                  "type": "string",
+                  "default": "",
+                  "pattern": "^.*$"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "news": {
+      "$id": "#root/news",
+      "title": "News",
+      "description": "Array of news items",
+      "type": "array",
+      "required": ["title", "identifier", "tintColor", "date", "notify"],
+      "default": [],
+      "items": {
+        "$id": "#root/news/items",
+        "title": "Items",
+        "type": "object",
+        "properties": {
+          "title": {
+            "$id": "#root/news/items/title",
+            "title": "Title",
+            "description": "Title header",
+            "type": "string",
+            "default": "Example News Item",
+            "pattern": "^.*$"
+          },
+          "identifier": {
+            "$id": "#root/news/items/identifier",
+            "title": "Identifier",
+            "description": "Unique news identifier",
+            "type": "string",
+            "default": "com.example.news1",
+            "pattern": "^.*$"
+          },
+          "caption": {
+            "$id": "#root/news/items/caption",
+            "title": "Caption",
+            "description": "Description of news item",
+            "type": "string",
+            "default": "Hey, look! It's a description!",
+            "pattern": ".*$"
+          },
+          "tintColor": {
+            "$id": "#root/news/items/tintColor",
+            "title": "TintColor",
+            "description": "Background color tint of item",
+            "type": "string",
+            "default": "3B878D",
+            "pattern": "^.*$"
+          },
+          "imageURL": {
+            "$id": "#root/news/items/imageURL",
+            "title": "ImageURL",
+            "description": "Optional image URL for news item",
+            "type": "string",
+            "default": "https://example.com/news.png",
+            "pattern": "^.*$"
+          },
+          "date": {
+            "$id": "#root/news/items/date",
+            "title": "Date",
+            "description": "Time to display item, chronologically",
+            "type": "string",
+            "default": "2021-12-31T23:59:59-06:00",
+            "pattern": "^.*$"
+          },
+          "notify": {
+            "$id": "#root/news/items/notify",
+            "title": "Notify",
+            "description": "Whether to notify user upon recieving",
+            "type": "boolean",
+            "default": false
+          }
+        }
+      }
+    },
+    "userInfo": {
+      "$id": "#root/userInfo",
+      "title": "UserInfo",
+      "description": "Optional. Unknown usage.",
+      "type": "object",
+      "properties": {
+        "patreonAccessToken": {
+          "$id": "#root/userInfo/patreonAccessToken",
+          "title": "PatreonAccessToken",
+          "description": "Optional. Unknown usage.",
+          "type": "string",
+          "default": "",
+          "pattern": "^.*$"
+        }
+      }
+    }
+  }
+}

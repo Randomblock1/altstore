@@ -1,0 +1,8 @@
+{"json.schemas": [
+    {
+        "fileMatch": [
+            "apps.json"
+        ],
+        "url": "altstore.schema.json"
+    }
+]}
