@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v1
       - name: Validate JSON
         run: |
-          jq . apps.json
+          if jq . apps.json; then echo 'Valid JSON!'; else echo 'Invalid JSON!'; exit 1; fi
