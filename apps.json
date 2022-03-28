@@ -96,7 +96,7 @@
     {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.3.ipa",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
       "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/kodi.jpg",
       "localizedDescription": "Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
       "name": "Kodi",
@@ -104,27 +104,27 @@
         "https://i.imgur.com/W0S0JaF.jpg",
         "https://i.imgur.com/KB1juNm.jpg"
       ],
-      "size": 130389701,
+      "size": 131097200,
       "subtitle": "The ultimate entertainment center",
       "tintColor": "12B2E7",
-      "version": "19.3",
-      "versionDate": "2021-10-25T12:00:00-06:00",
-      "versionDescription": "Updated to Kodi 19.3. View the changelog here: https://kodi.tv/article/kodi-matrix-19-3-release/"
+      "version": "19.4",
+      "versionDate": "2022-03-05T12:00:00-06:00",
+      "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
     },
     {
       "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
       "developerName": "libRetro",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/RetroArch_v1.9.0.ipa",
+      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/RetroArch_v1.10.1.ipa",
       "iconURL": "https://www.libretro.com/wp-content/uploads/2016/01/ic_launcher.png",
       "localizedDescription": "RetroArch is a frontend for emulators, game engines and media players.\n\nIt enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!",
       "name": "RetroArch",
       "screenshotURLs": ["https://i.imgur.com/aDXoWTT.png"],
-      "size": 255389680,
+      "size": 421153286,
       "subtitle": "All-in-One emulator for iOS.",
       "tintColor": "000000",
-      "version": "1.9.0",
-      "versionDate": "2020-08-09T12:00:00-06:00",
-      "versionDescription": "Updated RetroArch to 1.9.0. View the changelog here: https://www.libretro.com/index.php/retroarch-1-9-0-released/"
+      "version": "1.10.1",
+      "versionDate": "2022-03-06T12:00:00-06:00",
+      "versionDescription": "Updated RetroArch to 1.10.1. View the changelog here: https://www.libretro.com/index.php/retroarch-1-10-1-release/"
     },
     {
       "bundleIdentifier": "org.ppsspp.ppsspp",
